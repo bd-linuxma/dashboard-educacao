@@ -111,8 +111,8 @@ SUPPLEMENTARY = {
         'st':1150,'sp':250,'se':750,'sm':2.5,'tp':650,'te':180,'tm':8500,'vm':420,
         'pdd':12.5,'evs':22,'dl_ebitda':1.22,'fcf':1200,'fcf_ebitda':44,'goodwill_pct':42,
         'ead_exp':45,'pr':350,'pg':15,
-        'rec':'Compra','tgt':5.50,
-        'hl':'Fechou capital Vasta R$434M. Adq. Fac. Med. Dourados. Vendas NEM postergadas p/ 1T26.',
+        'rec':'Compra','tgt':6.50,
+        'hl':'4T25: RL R$2,2bi (+1,9%). Lucro R$220M (-76% base alta). Vendas NEM postergadas p/ 1T26. BTG eleva p/ compra.',
     },
     'YDUQ3': {
         'fn': 'Yduqs', 'brands': 'Estácio, IBMEC, IDOMED, Wyden',
@@ -120,17 +120,17 @@ SUPPLEMENTARY = {
         'st':850,'sp':300,'se':430,'sm':5.0,'tp':800,'te':220,'tm':12546,'vm':1200,
         'pdd':14.0,'evs':24,'dl_ebitda':1.46,'fcf':1050,'fcf_ebitda':61,'goodwill_pct':35,
         'ead_exp':35,'pr':480,'pg':34,
-        'rec':'Compra','tgt':18.00,
-        'hl':'4T25 frustrou. Prejuízo R$49,5M. Captação 1S26: híbrido +74%, pres -5%, EAD -37%.',
+        'rec':'Neutro','tgt':18.00,
+        'hl':'4T25: RL R$1,3bi (+3%). Prejuízo R$49,5M. EBITDA aj. R$459M (+16%). Captação 1S26 mista.',
     },
     'ANIM3': {
         'fn': 'Ânima', 'brands': 'São Judas, Una, UniBH, Inspirali',
-        'seg': [['Core',2800,6],['Inspirali',800,10],['Lifelong',400,20]],
+        'seg': [['Core',2800,4.5],['Inspirali',800,15.6],['Lifelong',400,20]],
         'st':400,'sp':200,'se':150,'sm':4.0,'tp':900,'te':250,'tm':6211,'vm':800,
-        'pdd':10.5,'evs':20,'dl_ebitda':2.66,'fcf':600,'fcf_ebitda':48,'goodwill_pct':55,
+        'pdd':10.5,'evs':20,'dl_ebitda':2.49,'fcf':600,'fcf_ebitda':48,'goodwill_pct':55,
         'ead_exp':15,'pr':400,'pg':20,
         'rec':'Compra','tgt':7.00,
-        'hl':'Reverteu prejuízo. Inspirali ticket caiu R$7.4k→R$6.2k. DL/EBITDA 2,66x.',
+        'hl':'4T25: RL R$972M (+8,6%). Prejuízo R$18M (desp. financeiras). DL/EBITDA 2,49x (vs 2,80x). JP eleva p/ compra.',
     },
     'SEER3': {
         'fn': 'Ser Educacional', 'brands': 'Uninassau, Unifael, UNAMA',
@@ -168,14 +168,14 @@ INTL = [
 ]
 
 NEWS = [
+    ['21/03','SETOR','BTG eleva Cogna p/ compra; setor educação vive era de vaca leiteira','↑'],
     ['15/03','YDUQ3','Yduqs despenca 14% após balanço 4T25 frustrar expectativas','↓'],
     ['14/03','COGN3','Cogna recua 6,9% após lucro cair 76% no 4T25','↓'],
-    ['12/03','ANIM3','Ânima reporta 4T25 — mercado aguarda Inspirali','→'],
-    ['11/03','COGN3','Cogna atualiza guidance: vendas NEM postergadas p/ 1T26','→'],
-    ['11/03','YDUQ3','Yduqs: lucro ajustado R$60,2M (-2,5%); captação 1S26 mista','↓'],
+    ['12/03','ANIM3','Ânima reporta 4T25: RL +8,6%, Inspirali +15,6%, DL/EBITDA melhora p/ 2,49x','→'],
+    ['11/03','COGN3','Cogna 4T25: lucro R$220M, vendas NEM postergadas p/ 1T26','→'],
+    ['11/03','YDUQ3','Yduqs 4T25: EBITDA aj. +16,1%, mas prejuízo R$49,5M','↓'],
     ['26/02','SETOR','MEC publica nova portaria ajustando regras EAD','↑'],
     ['20/01','SETOR','Enamed: 30% cursos medicina insuficientes; 99 sob supervisão','→'],
-    ['19/01','SETOR','8 cursos suspensos, 13 com -50% vagas, 33 com -25%','↓'],
     ['15/01','COGN3','Cogna conclui fechamento capital Vasta R$434M','↑'],
 ]
 
