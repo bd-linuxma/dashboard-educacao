@@ -121,7 +121,7 @@ SUPPLEMENTARY = {
         'pdd':14.0,'evs':24,'dl_ebitda':1.46,'fcf':1050,'fcf_ebitda':61,'goodwill_pct':35,
         'ead_exp':35,'pr':480,'pg':34,
         'rec':'Neutro','tgt':18.00,
-        'hl':'4T25: RL R$1,3bi (+3%). Prejuízo R$49,5M. EBITDA aj. R$459M (+16%). Captação 1S26 mista.',
+        'hl':'4T25: RL R$1,3bi (+3%). Prejuízo R$49,5M. EBITDA aj. R$459M (+16%). Recompra R$100M aprovada. Captação 1S26: matrículas -7%.',
     },
     'ANIM3': {
         'fn': 'Ânima', 'brands': 'São Judas, Una, UniBH, Inspirali',
@@ -130,7 +130,7 @@ SUPPLEMENTARY = {
         'pdd':10.5,'evs':20,'dl_ebitda':2.49,'fcf':600,'fcf_ebitda':48,'goodwill_pct':55,
         'ead_exp':15,'pr':400,'pg':20,
         'rec':'Compra','tgt':7.00,
-        'hl':'4T25: RL R$972M (+8,6%). Prejuízo R$18M (desp. financeiras). DL/EBITDA 2,49x (vs 2,80x). JP eleva p/ compra.',
+        'hl':'2025: Lucro R$124M (+45%). RL R$4,0bi (+5,8%). Mg EBITDA aj. 30%. Organon Capital atinge 5%. DL/EBITDA 2,49x.',
     },
     'SEER3': {
         'fn': 'Ser Educacional', 'brands': 'Uninassau, Unifael, UNAMA',
@@ -139,7 +139,7 @@ SUPPLEMENTARY = {
         'pdd':11.0,'evs':23,'dl_ebitda':1.35,'fcf':300,'fcf_ebitda':52,'goodwill_pct':28,
         'ead_exp':20,'pr':120,'pg':12,
         'rec':'Neutro','tgt':12.00,
-        'hl':'CEO vê marco EAD positivo. Foco saúde. Alavancagem 1,35x.',
+        'hl':'7ª debêntures R$250M (mar/26). CEO vê marco EAD positivo. Foco saúde. Alavancagem 1,35x.',
     },
     'CSED3': {
         'fn': 'Cruzeiro do Sul', 'brands': 'Cruzeiro do Sul, Universidade Positivo',
@@ -147,8 +147,8 @@ SUPPLEMENTARY = {
         'st':450,'sp':180,'se':230,'sm':1.5,'tp':750,'te':210,'tm':9500,'vm':250,
         'pdd':9.5,'evs':21,'dl_ebitda':0.57,'fcf':400,'fcf_ebitda':53,'goodwill_pct':38,
         'ead_exp':40,'pr':200,'pg':10,
-        'rec':'Neutro','tgt':8.00,
-        'hl':'Rebaixada Santander. Baixa liquidez. Potencial M&A.',
+        'rec':'Compra','tgt':10.00,
+        'hl':'BTG eleva target p/ R$10 (Compra). Rebaixada Santander. Baixa liquidez. Earnings 25/mar.',
     },
 }
 
@@ -169,13 +169,16 @@ INTL = [
 
 NEWS = [
     ['21/03','SETOR','BTG eleva Cogna p/ compra; setor educação vive era de vaca leiteira','↑'],
+    ['20/03','YDUQ3','Yduqs aprova recompra de até R$100M em ações (prazo 18 meses)','↑'],
+    ['20/03','SETOR','MEC pune 50+ cursos de medicina por baixo desempenho no Enamed 2025','↓'],
     ['15/03','YDUQ3','Yduqs despenca 14% após balanço 4T25 frustrar expectativas','↓'],
     ['14/03','COGN3','Cogna recua 6,9% após lucro cair 76% no 4T25','↓'],
     ['12/03','ANIM3','Ânima reporta 4T25: RL +8,6%, Inspirali +15,6%, DL/EBITDA melhora p/ 2,49x','→'],
+    ['12/03','ANIM3','Organon Capital atinge 5% das ações da Ânima (20,2M de ações)','→'],
     ['11/03','COGN3','Cogna 4T25: lucro R$220M, vendas NEM postergadas p/ 1T26','→'],
     ['11/03','YDUQ3','Yduqs 4T25: EBITDA aj. +16,1%, mas prejuízo R$49,5M','↓'],
+    ['03/03','SEER3','Ser Educacional conclui 7ª emissão de debêntures: R$250M para pré-pagamento de dívidas','→'],
     ['26/02','SETOR','MEC publica nova portaria ajustando regras EAD','↑'],
-    ['20/01','SETOR','Enamed: 30% cursos medicina insuficientes; 99 sob supervisão','→'],
     ['15/01','COGN3','Cogna conclui fechamento capital Vasta R$434M','↑'],
 ]
 
