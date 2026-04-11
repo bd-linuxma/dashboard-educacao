@@ -112,7 +112,7 @@ SUPPLEMENTARY = {
         'pdd':12.5,'evs':22,'dl_ebitda':1.22,'fcf':1200,'fcf_ebitda':44,'goodwill_pct':42,
         'ead_exp':45,'pr':350,'pg':15,
         'rec':'Compra','tgt':6.50,
-        'hl':'4T25: RL R$2,2bi (+1,9%). Lucro R$220M (-76% base alta). Vendas NEM postergadas p/ 1T26. BTG eleva p/ compra.',
+        'hl':'4T25: RL R$2,2bi (+1,9%). Lucro R$220M (-76% base alta). Vendas NEM postergadas p/ 1T26. Upgrade duplo: BTG (tgt R$5) e Itaú BBA (tgt R$6) p/ Compra.',
     },
     'YDUQ3': {
         'fn': 'Yduqs', 'brands': 'Estácio, IBMEC, IDOMED, Wyden',
@@ -120,8 +120,8 @@ SUPPLEMENTARY = {
         'st':850,'sp':300,'se':430,'sm':5.0,'tp':800,'te':220,'tm':12546,'vm':1200,
         'pdd':14.0,'evs':24,'dl_ebitda':1.46,'fcf':1050,'fcf_ebitda':61,'goodwill_pct':35,
         'ead_exp':35,'pr':480,'pg':34,
-        'rec':'Neutro','tgt':18.00,
-        'hl':'4T25: RL R$1,3bi (+3%). Prejuízo R$49,5M. EBITDA aj. R$459M (+16%). Recompra R$100M aprovada. Captação 1S26: matrículas -7%.',
+        'rec':'Compra','tgt':19.00,
+        'hl':'4T25: RL R$1,3bi (+3%). Prejuízo R$49,5M. EBITDA aj. R$459M (+16%). Recompra R$100M aprovada. Itaú BBA eleva p/ top pick (tgt R$19, +37,7%).',
     },
     'ANIM3': {
         'fn': 'Ânima', 'brands': 'São Judas, Una, UniBH, Inspirali',
@@ -139,7 +139,7 @@ SUPPLEMENTARY = {
         'pdd':11.0,'evs':23,'dl_ebitda':1.35,'fcf':300,'fcf_ebitda':52,'goodwill_pct':28,
         'ead_exp':20,'pr':120,'pg':12,
         'rec':'Neutro','tgt':12.00,
-        'hl':'7ª debêntures R$250M (mar/26). CEO vê marco EAD positivo. Foco saúde. Alavancagem 1,35x.',
+        'hl':'4T25: lucro aj. R$74,6M reverte prejuízo. 2025: lucro R$214,4M. Dividendos R$61,1M (abr/mai 2026). 7ª debêntures R$250M.',
     },
     'CSED3': {
         'fn': 'Cruzeiro do Sul', 'brands': 'Cruzeiro do Sul, Universidade Positivo',
@@ -148,7 +148,7 @@ SUPPLEMENTARY = {
         'pdd':9.5,'evs':21,'dl_ebitda':0.57,'fcf':400,'fcf_ebitda':53,'goodwill_pct':38,
         'ead_exp':40,'pr':200,'pg':10,
         'rec':'Compra','tgt':10.00,
-        'hl':'BTG eleva target p/ R$10 (Compra). Rebaixada Santander. Baixa liquidez. Earnings 25/mar.',
+        'hl':'4T25: lucro R$34,5M reverte prejuízo; ações -8% (desp. adm. +39%). 2025: lucro recorde R$297M (2x). BTG target R$10 (Compra).',
     },
 }
 
@@ -168,18 +168,19 @@ INTL = [
 ]
 
 NEWS = [
+    ['10/04','SETOR','Itaú BBA eleva COGN3 e YDUQ3 p/ Compra; Yduqs vira top pick (target R$19)','↑'],
+    ['08/04','SETOR','Vitru (VTRU3) lança follow-on de até R$300M; precificação 15/abr','→'],
+    ['07/04','SEER3','SEER3 ex-proventos — dividendos R$61,1M (R$0,239/ação) em abr/mai','↑'],
+    ['01/04','SETOR','MEC publica Portaria SERES 98 — Agenda Regulatória 2026','→'],
+    ['25/03','CSED3','CSED3 4T25: lucro R$34,5M reverte prejuízo; ações caem 8% (desp. adm. +39%)','↓'],
     ['21/03','SETOR','BTG eleva Cogna p/ compra; setor educação vive era de vaca leiteira','↑'],
     ['20/03','YDUQ3','Yduqs aprova recompra de até R$100M em ações (prazo 18 meses)','↑'],
     ['20/03','SETOR','MEC pune 50+ cursos de medicina por baixo desempenho no Enamed 2025','↓'],
     ['15/03','YDUQ3','Yduqs despenca 14% após balanço 4T25 frustrar expectativas','↓'],
     ['14/03','COGN3','Cogna recua 6,9% após lucro cair 76% no 4T25','↓'],
-    ['12/03','ANIM3','Ânima reporta 4T25: RL +8,6%, Inspirali +15,6%, DL/EBITDA melhora p/ 2,49x','→'],
+    ['12/03','ANIM3','Ânima 4T25: RL +8,6%, Inspirali +15,6%, DL/EBITDA melhora p/ 2,49x','→'],
     ['12/03','ANIM3','Organon Capital atinge 5% das ações da Ânima (20,2M de ações)','→'],
-    ['11/03','COGN3','Cogna 4T25: lucro R$220M, vendas NEM postergadas p/ 1T26','→'],
-    ['11/03','YDUQ3','Yduqs 4T25: EBITDA aj. +16,1%, mas prejuízo R$49,5M','↓'],
     ['03/03','SEER3','Ser Educacional conclui 7ª emissão de debêntures: R$250M para pré-pagamento de dívidas','→'],
-    ['26/02','SETOR','MEC publica nova portaria ajustando regras EAD','↑'],
-    ['15/01','COGN3','Cogna conclui fechamento capital Vasta R$434M','↑'],
 ]
 
 
