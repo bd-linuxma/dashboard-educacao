@@ -68,12 +68,13 @@ tbody tr:hover{background:rgba(43,171,179,.03)}tbody tr:nth-child(even){backgrou
 <a class="ni" href="#md">Medicina</a>
 <a class="ni" href="#ps">Pós-Graduação</a>
 <div class="ns">Global Comps</div>
-<a class="ni" href="#gl">Gringas</a>
+<a class="ni" href="#gl">Comp Set & Tiers</a>
 <a class="ni" href="#vc">Valuation Scatter</a>
 <div class="ns">Contexto</div>
 <a class="ni" href="#rg">Regulatório</a>
 <a class="ni" href="#ma">M&A</a>
 <a class="ni" href="#an">Analistas</a>
+<a class="ni" href="#ev">Eventos & Retorno</a>
 <a class="ni" href="#nw">Notícias</a>
 </nav>
 <div class="mn"><div class="tk">
@@ -82,6 +83,7 @@ tbody tr:hover{background:rgba(43,171,179,.03)}tbody tr:nth-child(even){backgrou
 <div class="tk-i"><span class="s">ANIM3</span><span class="p">R$4.03</span><span style="color:#BB243E;font-weight:600;font-size:11px">-1.0%</span></div>
 <div class="tk-i"><span class="s">SEER3</span><span class="p">R$10.46</span><span style="color:#2BABB3;font-weight:600;font-size:11px">+0.9%</span></div>
 <div class="tk-i"><span class="s">CSED3</span><span class="p">R$6.02</span><span style="color:#BB243E;font-weight:600;font-size:11px">-1.8%</span></div>
+<div class="tk-i"><span class="s">VTRU3</span><span class="p">R$14.70</span><span style="color:#B9B7B6;font-weight:600;font-size:11px">Follow-on</span></div>
 <div class="tk-i"><span class="s">LAUR</span><span class="p">$34.47</span><span style="color:#2BABB3;font-weight:600;font-size:11px">+66.1% 12M</span></div>
 <div class="tk-i"><span class="s">ATGE</span><span class="p">$93.83</span><span style="color:#2BABB3;font-weight:600;font-size:11px">+2.5% 12M</span></div>
 <div class="tk-i"><span class="s">LOPE</span><span class="p">$158.06</span><span style="color:#BB243E;font-weight:600;font-size:11px">-5.0% 12M</span></div>
@@ -419,13 +421,21 @@ tbody tr:hover{background:rgba(43,171,179,.03)}tbody tr:nth-child(even){backgrou
 <div class="sec" id="ps"><div class="st">Pós-Graduação</div><div class="ss">Vetor de diversificação</div>
 <div class="cg"><div class="cd"><div class="ct2">Receita Pós (R$ mi)</div><div class="cc" style="height:240px"><canvas id="c18"></canvas></div></div>
 <div class="cd"><div class="ct2">Crescimento Pós YoY (%)</div><div class="cc" style="height:240px"><canvas id="c19"></canvas></div></div></div></div>
-<div class="sec" id="gl"><div class="st">Global Comps</div><div class="ss">Benchmarking internacional</div><div class="tw"><table><thead><tr><th>Ticker</th><th>Companhia</th><th>País</th><th>Preço</th><th>MCap</th><th>EV/EBITDA</th><th>Marg.EBIT</th><th>ROE</th><th>12M</th><th>Foco</th></tr></thead><tbody>
-<tr><td><strong>LAUR</strong></td><td>Laureate</td><td>🇺🇸🇲🇽🇵🇪</td><td class="n">$34.47</td><td class="n">$5.1B</td><td class="n">12.5x</td><td class="n">15%</td><td class="n">18%</td><td class="n pos">+66.1%</td><td style="font-size:10px;max-width:200px;white-space:normal">LatAm higher ed</td></tr>
-<tr><td><strong>ATGE</strong></td><td>Adtalem</td><td>🇺🇸</td><td class="n">$93.83</td><td class="n">$3.4B</td><td class="n">9.5x</td><td class="n">20%</td><td class="n">25%</td><td class="n pos">+2.5%</td><td style="font-size:10px;max-width:200px;white-space:normal">Healthcare education (Chamberlain, Ross, Walden)</td></tr>
-<tr><td><strong>LOPE</strong></td><td>Grand Canyon</td><td>🇺🇸</td><td class="n">$158.06</td><td class="n">$4.4B</td><td class="n">10.8x</td><td class="n">30%</td><td class="n">35%</td><td class="n neg">-5.0%</td><td style="font-size:10px;max-width:200px;white-space:normal">Ed services B2B asset-light</td></tr>
-<tr><td><strong>STRA</strong></td><td>Strategic Ed</td><td>🇺🇸🇦🇺</td><td class="n">$92.00</td><td class="n">$2.1B</td><td class="n">8.5x</td><td class="n">18%</td><td class="n">15%</td><td class="n pos">+15.0%</td><td style="font-size:10px;max-width:200px;white-space:normal">Adult learners online (Capella, Strayer)</td></tr>
-<tr><td><strong>COUR</strong></td><td>Coursera</td><td>🌐</td><td class="n">$9.50</td><td class="n">$1.4B</td><td class="n">0x</td><td class="n">-5%</td><td class="n">0%</td><td class="n pos">+20.0%</td><td style="font-size:10px;max-width:200px;white-space:normal">Edtech plataforma global B2B/B2C</td></tr>
-<tr><td><strong>AFYA</strong></td><td>Afya</td><td>🇧🇷</td><td class="n">$13.50</td><td class="n">$2.5B</td><td class="n">7.5x</td><td class="n">25%</td><td class="n">20%</td><td class="n pos">+30.0%</td><td style="font-size:10px;max-width:200px;white-space:normal">Líder medicina BR + digital health</td></tr>
+<div class="sec" id="gl"><div class="st">Comp Set & Tiers</div><div class="ss">Benchmarking por relevância estratégica para +A Educação — Core 1 (Higher Ed Digital Partnership) + Core 2 (Healthcare/Mental Health Knowledge)</div>
+<div class="cd" style="margin-bottom:12px;background:var(--ow);border:none">
+<div style="font-size:11px;line-height:1.6"><strong>Lógica de classificação:</strong><br>
+<span class="bd bt">Tier 1</span> <strong>Base de clientes / comps domésticos diretos</strong> — IES listadas BR são buyers de Plataforma (B2B SaaS) e alvos/parceiras de Parcerias OPM. Movimentos aqui são sinal direto da saúde do mercado endereçável do +A. Inclui AFYA (medicina BR, análogo do Artmed).<br>
+<span class="bd bs">Tier 2</span> <strong>Análogos de business model</strong> — Mesma lógica de negócio, geografia/vertical diferente. Úteis como referência de unit economics, valuation e margem-teto do modelo.<br>
+<span class="bd br">Tier 3</span> <strong>Benchmarks de categoria</strong> — Referência mais distante, peso analítico menor.</div>
+</div>
+<div class="tw"><table><thead><tr><th>Tier</th><th>Ticker</th><th>Companhia</th><th>País</th><th>Preço</th><th>MCap</th><th>EV/EBITDA</th><th>Marg.EBIT</th><th>ROE</th><th>12M</th><th>Relevância p/ +A</th></tr></thead><tbody>
+<tr><td><span class="bd bt">T1</span></td><td><strong>VTRU3</strong></td><td>Vitru Educação</td><td>🇧🇷</td><td class="n">R$14.70</td><td class="n">R$1.2B</td><td class="n">6.8x</td><td class="n">19%</td><td class="n">14%</td><td class="n pos">+42%</td><td style="font-size:10px;max-width:220px;white-space:normal">EAD adulto BR (ex-UniCesumar); follow-on R$200-300M em abr/26. Ref. direta do modelo de EAD adulto (análogo STRA BR).</td></tr>
+<tr><td><span class="bd bt">T1</span></td><td><strong>AFYA</strong></td><td>Afya</td><td>🇧🇷</td><td class="n">$13.50</td><td class="n">$2.5B</td><td class="n">7.5x</td><td class="n">25%</td><td class="n">20%</td><td class="n pos">+30.0%</td><td style="font-size:10px;max-width:220px;white-space:normal">Medicina BR + digital health. Análogo direto do Core 2 Artmed (saúde, autoridade científica, conteúdo premium).</td></tr>
+<tr><td><span class="bd bs">T2</span></td><td><strong>LAUR</strong></td><td>Laureate</td><td>🇺🇸🇲🇽🇵🇪</td><td class="n">$34.47</td><td class="n">$5.1B</td><td class="n">12.5x</td><td class="n">15%</td><td class="n">18%</td><td class="n pos">+66.1%</td><td style="font-size:10px;max-width:220px;white-space:normal">LatAm higher ed. Ref. geográfica direta p/ expansão LATAM (México, Peru) — Parcerias + Plataforma.</td></tr>
+<tr><td><span class="bd bs">T2</span></td><td><strong>LOPE</strong></td><td>Grand Canyon</td><td>🇺🇸</td><td class="n">$158.06</td><td class="n">$4.4B</td><td class="n">10.8x</td><td class="n">30%</td><td class="n">35%</td><td class="n neg">-5.0%</td><td style="font-size:10px;max-width:220px;white-space:normal">Ed services B2B asset-light. Análogo do modelo Plataforma (SaaS recorrente, escala via IES). Margem-teto de referência.</td></tr>
+<tr><td><span class="bd bs">T2</span></td><td><strong>STRA</strong></td><td>Strategic Ed</td><td>🇺🇸🇦🇺</td><td class="n">$92.00</td><td class="n">$2.1B</td><td class="n">8.5x</td><td class="n">18%</td><td class="n">15%</td><td class="n pos">+15.0%</td><td style="font-size:10px;max-width:220px;white-space:normal">Adult learners online (Strayer, Capella). Análogo de Pós Premium adulto — Parcerias.</td></tr>
+<tr><td><span class="bd bs">T2</span></td><td><strong>ATGE</strong></td><td>Adtalem</td><td>🇺🇸</td><td class="n">$93.83</td><td class="n">$3.4B</td><td class="n">9.5x</td><td class="n">20%</td><td class="n">25%</td><td class="n pos">+2.5%</td><td style="font-size:10px;max-width:220px;white-space:normal">Healthcare education (Chamberlain, Ross, Walden). Análogo vertical Artmed em healthcare global.</td></tr>
+<tr><td><span class="bd br">T3</span></td><td><strong>COUR</strong></td><td>Coursera</td><td>🌐</td><td class="n">$9.50</td><td class="n">$1.4B</td><td class="n">0x</td><td class="n">-5%</td><td class="n">0%</td><td class="n pos">+20.0%</td><td style="font-size:10px;max-width:220px;white-space:normal">Edtech plataforma global B2B/B2C. Ref. de categoria (plataforma global de conteúdo) — peso analítico menor.</td></tr>
 </tbody></table></div>
 <div class="cg" style="margin-top:16px"><div class="cd"><div class="ct2">EV/EBITDA: BR vs Gringas</div><div class="cc"><canvas id="c20"></canvas></div></div>
 <div class="cd"><div class="ct2">Margem EBIT: BR vs Gringas</div><div class="cc"><canvas id="c21"></canvas></div></div></div>
@@ -461,14 +471,50 @@ tbody tr:hover{background:rgba(43,171,179,.03)}tbody tr:nth-child(even){backgrou
 <div style="font-size:12px"><strong>Referências de múltiplo:</strong> Medicina pré-operacional ~R$ 700k/vaga · Medicina operacional ~R$ 1-1.5M/vaga · EAD: 4-6x EBITDA · Presencial premium: 6-8x EBITDA · Ed. básica (escolas): 8-12x EBITDA</div>
 </div>
 </div>
-<div class="sec" id="an"><div class="st">Analistas</div><div class="tw"><table><thead><tr><th>Cia</th><th>Consenso</th><th>Target</th><th>Upside</th><th>Nota</th></tr></thead><tbody>
-<tr><td><strong>COGN3</strong></td><td><span class="bd bt">Compra</span></td><td class="n">R$5.50</td><td class="n pos">+88.4%</td><td style="font-size:10px;max-width:250px;white-space:normal">Fechou capital Vasta R$434M. Adq. Fac. Med. Dourados. Vendas NEM postergadas p/ 1T26.</td></tr>
-<tr><td><strong>YDUQ3</strong></td><td><span class="bd bt">Compra</span></td><td class="n">R$18.00</td><td class="n pos">+73.4%</td><td style="font-size:10px;max-width:250px;white-space:normal">4T25 frustrou. Prejuízo R$49,5M. Captação 1S26: híbrido +74%, pres -5%, EAD -37%.</td></tr>
-<tr><td><strong>ANIM3</strong></td><td><span class="bd bt">Compra</span></td><td class="n">R$7.00</td><td class="n pos">+73.7%</td><td style="font-size:10px;max-width:250px;white-space:normal">Reverteu prejuízo. Inspirali ticket caiu R$7.4k→R$6.2k. DL/EBITDA 2,66x.</td></tr>
-<tr><td><strong>SEER3</strong></td><td><span class="bd bs">Neutro</span></td><td class="n">R$12.00</td><td class="n pos">+14.7%</td><td style="font-size:10px;max-width:250px;white-space:normal">CEO vê marco EAD positivo. Foco saúde. Alavancagem 1,35x.</td></tr>
-<tr><td><strong>CSED3</strong></td><td><span class="bd bs">Neutro</span></td><td class="n">R$8.00</td><td class="n pos">+32.9%</td><td style="font-size:10px;max-width:250px;white-space:normal">Rebaixada Santander. Baixa liquidez. Potencial M&A.</td></tr>
+<div class="sec" id="an"><div class="st">Analistas</div><div class="ss">Síntese de targets curados + consenso multi-casas</div>
+<div class="tw"><table><thead><tr><th>Cia</th><th>Consenso</th><th>Target Ref.</th><th>Upside</th><th>Nota</th></tr></thead><tbody>
+<tr><td><strong>COGN3</strong></td><td><span class="bd bt">Compra</span></td><td class="n">R$6.50</td><td class="n pos">+88.4%</td><td style="font-size:10px;max-width:250px;white-space:normal">Upgrade duplo BTG+Itaú BBA. Fechou capital Vasta R$434M. Adq. Fac. Med. Dourados.</td></tr>
+<tr><td><strong>YDUQ3</strong></td><td><span class="bd bt">Compra</span></td><td class="n">R$19.00</td><td class="n pos">+73.4%</td><td style="font-size:10px;max-width:250px;white-space:normal">Itaú BBA top pick do setor (abr/26). Recompra R$100M aprovada. Captação 1S26 mista.</td></tr>
+<tr><td><strong>ANIM3</strong></td><td><span class="bd bt">Compra</span></td><td class="n">R$7.00</td><td class="n pos">+73.7%</td><td style="font-size:10px;max-width:250px;white-space:normal">FY25: lucro R$124M (+45%). Inspirali +15,6%. DL/EBITDA 2,49x. Organon atinge 5%.</td></tr>
+<tr><td><strong>SEER3</strong></td><td><span class="bd bs">Neutro</span></td><td class="n">R$12.00</td><td class="n pos">+14.7%</td><td style="font-size:10px;max-width:250px;white-space:normal">Santander top pick. Dividendos R$61,1M abr/mai. 4T25 reverte prejuízo.</td></tr>
+<tr><td><strong>CSED3</strong></td><td><span class="bd bt">Compra</span></td><td class="n">R$10.00</td><td class="n pos">+32.9%</td><td style="font-size:10px;max-width:250px;white-space:normal">BTG target R$10 (Compra). Itaú BBA small-cap favorita (M&A). Desp. adm. 4T25 +39%.</td></tr>
 </tbody></table></div>
+<div class="cd" style="margin-top:16px"><div class="ct2">Consenso Multi-Casas — Min · Médio · Max</div>
+<div class="tw"><table><thead><tr><th>Cia</th><th>BTG</th><th>Itaú BBA</th><th>Santander</th><th>JP Morgan</th><th>Min</th><th>Consenso</th><th>Max</th><th>#Casas</th></tr></thead><tbody>
+<tr><td><strong>COGN3</strong></td><td class="n">R$5.00</td><td class="n">R$6.00</td><td class="n pos"><strong>R$6.50</strong></td><td class="n">R$4.50</td><td class="n">R$4.50</td><td class="n">R$5.50</td><td class="n">R$6.50</td><td class="n">4</td></tr>
+<tr><td><strong>YDUQ3</strong></td><td class="n">R$18.00</td><td class="n pos"><strong>R$19.00</strong></td><td class="n">R$16.00</td><td class="n">R$14.00</td><td class="n">R$14.00</td><td class="n">R$16.75</td><td class="n">R$19.00</td><td class="n">4</td></tr>
+<tr><td><strong>ANIM3</strong></td><td class="n pos"><strong>R$7.00</strong></td><td class="n">R$6.50</td><td class="n">R$6.00</td><td class="n">R$5.50</td><td class="n">R$5.50</td><td class="n">R$6.25</td><td class="n">R$7.00</td><td class="n">4</td></tr>
+<tr><td><strong>SEER3</strong></td><td class="n">R$11.00</td><td class="n">R$12.00</td><td class="n pos"><strong>R$13.00</strong></td><td class="n">R$10.50</td><td class="n">R$10.50</td><td class="n">R$11.63</td><td class="n">R$13.00</td><td class="n">4</td></tr>
+<tr><td><strong>CSED3</strong></td><td class="n pos"><strong>R$10.00</strong></td><td class="n">R$9.00</td><td class="n">R$8.00</td><td class="n">R$7.50</td><td class="n">R$7.50</td><td class="n">R$8.63</td><td class="n">R$10.00</td><td class="n">4</td></tr>
+</tbody></table></div>
+<div style="font-size:10px;color:var(--sv);margin-top:8px">Em negrito = target de referência usado acima. Fonte: relatórios recentes BTG, Itaú BBA, Santander e JP Morgan (mar-abr/2026). Dados curados manualmente — atualizar após cada revisão setorial relevante.</div>
+</div>
 <div class="cd" style="margin-top:16px"><div class="ct2">Preço Atual vs Target Médio dos Analistas</div><div class="cc" style="height:260px"><canvas id="c34"></canvas></div></div></div>
+
+<div class="sec" id="ev"><div class="st">Eventos Corporativos & Retorno ao Acionista</div><div class="ss">Calendário de próximos eventos (dividendos, assembleias, follow-ons, earnings) + programas ativos de recompra e dividendos</div>
+<div class="cg"><div class="cd"><div class="ct2">📅 Próximos Eventos Corporativos</div>
+<div class="tw"><table><thead><tr><th>Data</th><th>Cia</th><th>Tipo</th><th>Descrição</th></tr></thead><tbody>
+<tr><td><strong>15/04</strong></td><td>VTRU3</td><td><span class="bd bs">Follow-on</span></td><td style="font-size:10px">Precificação oferta primária R$200-300M</td></tr>
+<tr><td><strong>20/04</strong></td><td>VTRU3</td><td><span class="bd bs">Follow-on</span></td><td style="font-size:10px">Liquidação follow-on</td></tr>
+<tr><td><strong>30/04</strong></td><td>SEER3</td><td><span class="bd bt">Dividendo</span></td><td style="font-size:10px">1ª parcela R$30,6M (R$0,1195/ação)</td></tr>
+<tr><td><strong>Mai/26</strong></td><td>ANIM3</td><td><span class="bd bs">Earnings</span></td><td style="font-size:10px">Divulgação 1T26 (data a confirmar)</td></tr>
+<tr><td><strong>Mai/26</strong></td><td>COGN3</td><td><span class="bd bs">Earnings</span></td><td style="font-size:10px">1T26 — vendas NEM postergadas do 4T25</td></tr>
+<tr><td><strong>29/05</strong></td><td>SEER3</td><td><span class="bd bt">Dividendo</span></td><td style="font-size:10px">2ª parcela R$30,6M (R$0,1195/ação)</td></tr>
+<tr><td><strong>Out/26</strong></td><td>SETOR</td><td><span class="bd br">Regulatório</span></td><td style="font-size:10px">Próximo Enamed — impacto Medicina</td></tr>
+</tbody></table></div>
+</div>
+<div class="cd"><div class="ct2">💰 Programas Ativos de Recompra & Dividendos</div>
+<div class="tw"><table><thead><tr><th>Cia</th><th>Programa</th><th>Valor</th><th>% Exec.</th><th>Prazo</th><th>Yield Impl.</th></tr></thead><tbody>
+<tr><td><strong>YDUQ3</strong></td><td><span class="bd bt">Recompra</span></td><td class="n">R$100M</td><td class="n">0%</td><td class="n">18m (set/27)</td><td class="n">~3,5%</td></tr>
+<tr><td><strong>COGN3</strong></td><td><span class="bd bs">Recompra</span></td><td class="n">R$150M</td><td class="n">100%</td><td class="n">Encerrada 2025</td><td class="n">~2,5%</td></tr>
+<tr><td><strong>SEER3</strong></td><td><span class="bd bt">Dividendo</span></td><td class="n">R$61,1M</td><td class="n">—</td><td class="n">abr-mai/26</td><td class="n pos">4,5%</td></tr>
+<tr><td><strong>COGN3</strong></td><td><span class="bd bt">Dividendo</span></td><td class="n">R$190M</td><td class="n">—</td><td class="n">anual</td><td class="n pos">5,6%</td></tr>
+<tr><td><strong>YDUQ3</strong></td><td><span class="bd bt">JCP/Div.</span></td><td class="n">R$313M</td><td class="n">—</td><td class="n">anual</td><td class="n pos">11,0%</td></tr>
+<tr><td><strong>CSED3</strong></td><td><span class="bd bt">Dividendo</span></td><td class="n">R$184M</td><td class="n">—</td><td class="n">anual</td><td class="n pos">8,1%</td></tr>
+</tbody></table></div>
+<div style="font-size:10px;color:var(--sv);margin-top:8px">Yield implícito calculado sobre MCap atual. YDUQ3 liderou yield de caixa total em 2025.</div>
+</div></div>
+</div>
 <div class="sec" id="nw"><div class="st">Notícias</div><div class="cd">
 <div class="nw"><span style="color:var(--sv);font-size:10px;min-width:36px">10/04</span><span class="nwb" style="background:#2BABB320;color:#2BABB3">SETOR</span><span style="flex:1">Itaú BBA eleva COGN3 e YDUQ3 p/ Compra; Yduqs vira top pick (target R$19)</span><span style="font-size:14px;color:var(--tl)">↑</span></div>
 <div class="nw"><span style="color:var(--sv);font-size:10px;min-width:36px">08/04</span><span class="nwb" style="background:#2BABB320;color:#2BABB3">SETOR</span><span style="flex:1">Vitru (VTRU3) lança follow-on de até R$300M; precificação 15/abr</span><span style="font-size:14px;color:var(--sv)">→</span></div>

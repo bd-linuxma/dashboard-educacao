@@ -299,37 +299,80 @@ def build_chart_data(cos):
     }
 
 
+def build_news_block():
+    """Gera o bloco HTML completo da seção de notícias a partir do array NEWS.
+    Mantém o pipeline single source of truth — editar apenas o array NEWS em Python."""
+    # Cores de tag por ticker
+    tag_colors = {
+        'COGN3': ('#2BABB320', '#2BABB3'),
+        'YDUQ3': ('#BB243E20', '#BB243E'),
+        'ANIM3': ('#B9B7B620', '#B9B7B6'),
+        'SEER3': ('#FF9F0A20', '#FF9F0A'),
+        'CSED3': ('#3D3C3C20', '#3D3C3C'),
+        'VTRU3': ('#8B5CF620', '#8B5CF6'),
+        'SETOR': ('#2BABB320', '#2BABB3'),
+    }
+    # Cor do ícone de tendência
+    arrow_colors = {'↑': 'var(--tl)', '↓': 'var(--rd)', '→': 'var(--sv)'}
+
+    items = []
+    for date, tag, title, arrow in NEWS:
+        bg, fg = tag_colors.get(tag, ('#B9B7B620', '#B9B7B6'))
+        arrow_color = arrow_colors.get(arrow, 'var(--sv)')
+        # Escape HTML in title (basic protection)
+        safe_title = title.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+        items.append(
+            f'<div class="nw"><span style="color:var(--sv);font-size:10px;min-width:36px">{date}</span>'
+            f'<span class="nwb" style="background:{bg};color:{fg}">{tag}</span>'
+            f'<span style="flex:1">{safe_title}</span>'
+            f'<span style="font-size:14px;color:{arrow_color}">{arrow}</span></div>'
+        )
+    return (
+        '<div class="sec" id="nw"><div class="st">Notícias</div><div class="cd">\n'
+        + '\n'.join(items)
+        + '\n</div></div>'
+    )
+
+
 def build_html(cos, logo_svg):
     """Gera o HTML completo do dashboard."""
 
     chart_data = build_chart_data(cos)
     data_json = json.dumps(chart_data, ensure_ascii=False)
 
-    # Read the current dashboard as template
-    # We'll use the latest version from output if it exists, otherwise build from scratch
-    template_path = os.path.join(os.path.dirname(__file__), 'output', 'index.html')
-
-    # Since we already have a working HTML, we copy it and just update the dynamic parts
-    # But for the standalone agent, let's read from the saved template
     current_dir = os.path.dirname(os.path.abspath(__file__))
     existing = os.path.join(current_dir, 'template.html')
 
     if os.path.exists(existing):
         with open(existing, 'r', encoding='utf-8') as f:
             html = f.read()
-        # Update the D = {...} block
+
         import re
+
+        # Update the D = {...} block (chart data)
         html = re.sub(r'const D = \{.*?\};', f'const D = {data_json};', html, count=1, flags=re.DOTALL)
+
         # Update timestamp
         html = re.sub(r'Atualizado em [\d/]+ [\d:]+', f'Atualizado em {NOW}', html)
-        # Update ticker prices in ticker bar
+
+        # Update ticker prices in ticker bar (TK only — VTRU3 stays static)
         for t in TK:
             d = cos[t]
             price = d.get('price', 0)
-            var = d.get('var_day', 0)
-            # Update price spans
             old_pattern = f'(<span class="s">{t}</span><span class="p">)R\\$[\\d.]+(<\\/span>)'
             html = re.sub(old_pattern, f'\\1R${price:.2f}\\2', html)
+
+        # Inject news block dynamically from NEWS array (fix para pipeline bug)
+        # Substitui todo o <div class="sec" id="nw">...</div> correspondente
+        news_block = build_news_block()
+        html = re.sub(
+            r'<div class="sec" id="nw">.*?</div></div>',
+            lambda m: news_block,
+            html,
+            count=1,
+            flags=re.DOTALL,
+        )
+
         return html
 
     # If no template exists, we need to signal that
