@@ -1,90 +1,74 @@
-# Relatório de Sugestões de Melhoria — 11/04/2026 (Execução #3)
+# Relatório de Sugestões de Melhoria — 29/04/2026 (Execução #4)
 
-## Notícias Relevantes Encontradas (últimos ~7 dias)
+## Notícias Relevantes Encontradas (últimos ~7 dias, 22–29/abr)
 
-### Setor / Analistas
-- **Itaú BBA eleva COGN3 e YDUQ3 para Compra; Yduqs vira top pick (abr/26)** — Target YDUQ3 subiu de R$16 para R$19 (+37,7%); COGN3 target revisado de R$3,30 para R$6 (+31,9%). Tese: valuation atrativo + forte geração de caixa 2026. CSED3 destacada como top pick small cap (potencial beneficiária de M&A). [Seu Dinheiro](https://www.seudinheiro.com/2026/empresas/yduqs-yduq3-itau-bba-eleva-recomendacao-para-compra-e-acoes-saltam-mais-de-10-lvgb/) · [Money Times](https://www.moneytimes.com.br/itau-bba-eleva-cogna-cogn3-e-yduqs-yduq3-para-compra-e-uma-delas-e-a-favorita-do-banco-no-setor-de-educacao-lils/)
-- **BTG reforça tese "era de vaca leiteira" para educação** — Setor deixou fase de expansão e entrou em ciclo de harvesting (rentabilidade, eficiência, preservação de caixa). FCF yield COGN3 14%–15% (2026–2027); YDUQ3 18% (2026). [Seu Dinheiro](https://www.seudinheiro.com/2026/empresas/educacao-vive-era-de-vaca-leiteira-e-btg-eleva-recomendacao-da-cogna-cogn3-para-compra-descubra-a-acao-queridinha-do-banco-lvgb/)
+### Dividendos aprovados / eventos corporativos
+- **Cogna (COGN3) aprova R$ 28,6 milhões em dividendos (28/abr)** — R$ 0,0143 por ação. Data-com 27/abr; ex-dividendos a partir de 28/abr; pagamento em parcela única em 29/mai. Dividend yield implícito modesto, mas sinaliza retomada de distribuição. [Money Times](https://www.moneytimes.com.br/cogna-cogn3-aprova-r-286-milhoes-em-dividendos-veja-valor-por-acao-e-datas/) · [BPMoney](https://bpmoney.com.br/negocios/empresas/cogna-cogn3-aprova-dividendos-de-r-285-milhoes-veja-valor-por-acao/)
+- **Ânima (ANIM3) aprova R$ 29,3 milhões em dividendos (24/abr)** — R$ 0,07778 por ação. Ex-dividendos a partir de 27/abr; pagamento em 15/mai. [ADVFN](https://br.advfn.com/jornal/2026/04/anima-educacao-aprova-dividendos-de-r-29-3-milhoes-veja-valor-por-acao-e-data-de-pagamento)
+- **Vitru (VTRU3) conclui follow-on na B3 (20/abr)** — Liquidação efetiva da oferta primária (R$ 200M base + R$ 100M lote adicional/suplementar). Primeira captação pós-migração Nasdaq→B3. [ADVFN](https://br.advfn.com/jornal/2026/04/vitru-educacao-capta-recursos-em-follow-on-na-b3-e-reforca-estrategia-de-crescimento-no-ensino-superior)
 
-### Vitru (VTRU3) — Follow-on relevante
-- **Vitru anuncia follow-on de até R$300M (abr/26)** — Oferta base R$200M + lote adicional R$70M + suplementar R$30M. Período de prioridade 8–14/abr; precificação 15/abr; liquidação 20/abr. Coordenadores: BTG, Itaú BBA, Bradesco BBI. Uso: amortização de dívida, reforço de capital, investimentos em campi e laboratórios regulatórios. Primeira grande captação após migração Nasdaq→B3. [ADVFN](https://br.advfn.com/jornal/2026/04/vitru-anuncia-follow-on-de-acoes-na-b3-com-prioridade-a-acionistas-e-mira-investidores-profissionais) · [Brazil Journal](https://braziljournal.com/vitru-lanca-follow-on-para-levantar-ate-r-300-milhoes/)
-
-### Cruzeiro do Sul (CSED3)
-- **CSED3 reverte prejuízo no 4T25: lucro R$34,5M (ajustado R$20,7M, +21,2%)** — EBITDA 4T25 +38% a/a. 2025 fechou com lucro recorde de R$297M (2× vs 2024). Mas ações caíram ~8% no pós-balanço: despesas administrativas subiram 39% e pressionaram margens. [Finance News](https://financenews.com.br/2026/03/cruzeiro-do-sul-csed3-reverte-prejuizo-e-tem-lucro-liquido-de-r-34-milhoes-no-4t25/) · [Guia do Investidor](https://guiadoinvestidor.com.br/mercado/ser-seer3-dispara-16-e-cruzeiro-do-sul-csed3-despenca-apos-balanco-mercado-reage-forte/)
-
-### Ser Educacional (SEER3)
-- **SEER3 aprova dividendos de R$61,1M (R$0,239/ação)** — Pagamento em duas parcelas iguais: 30/abr e 29/mai. Data-com 6/abr; ex-proventos a partir de 7/abr. [Análise de Ações](https://www.analisedeacoes.com/noticias/ser-educacional-seer3-aprova-dividendos-de-61-1-milhoes-e-reverte-prejuizo/) · [Money Times](https://www.moneytimes.com.br/ser-educacional-seer3-aprova-r-611-milhoes-em-dividendos-pagamento-sera-em-duas-parcelas-ate-maio-de-2026-kda/)
-- **SEER3 4T25: lucro aj. R$74,6M (reverte prejuízo R$30,2M/4T24); 2025 lucro R$214,4M** — Primeira virada de ano no azul após resultado fraco de 2024. [BPMoney](https://bpmoney.com.br/mercado/ser-educacional-seer3-aprova-r-611-milhoes-em-dividendos-aos-acionistas/)
-
-### Ânima (ANIM3)
-- **Permanece entre small caps preferidas do BTG** — Tese: beneficiária de queda de juros (alavancagem reage bem ao ciclo de flexibilização monetária). Sem fato relevante novo nos últimos 7 dias além da repercussão pós-Enamed já refletida.
-
-### Cogna (COGN3)
-- **Itaú BBA eleva p/ Compra com target R$6** — Upgrade adicional ao do BTG (target R$5). Revisão sustentada por momentum operacional e perspectivas consistentes em todos os segmentos de negócio.
+### Recomendações de bancos / sell-side
+- **Santander promove SEER3 a top pick do setor (abr/26)** — Upgrade de Neutro para **Outperform**, target **R$ 12,80**. Tese: FCF yield ~16%, ~R$ 110M em dividendos esperados, geração de caixa robusta em ano eleitoral volátil. Cogna (COGN3) e Ânima (ANIM3) também outperform; Vitru (VTRU3) neutro; **CSED3 mantida em underperform**. [Seu Dinheiro](https://www.seudinheiro.com/2026/empresas/santander-reavalia-setor-de-educacao-e-promove-ser-educacional-seer3-a-top-pick-veja-ranking-completo-lvgb/) · [Investidor10](https://investidor10.com.br/noticias/santander-elege-top-pick-da-educacao-e-ve-dividendo-milionario-em-2026-117920/) · [Money Times](https://www.moneytimes.com.br/santander-reavalia-setor-de-educacao-e-promove-ser-a-top-pick-ceci/)
+- **BofA: setor sofre no 1T26; Ser e Ânima preferidas (abr/26)** — Yduqs, Cogna e Afya mais expostas a impactos regulatórios (medicina, EAD); Ânima, Ser e Vitru beneficiárias relativas. Impacto regulatório completo só aparece a partir do 2T26 (turmas antigas ainda sustentam números). Custos de equipe e marketing pressionam margens. [Seu Dinheiro](https://www.seudinheiro.com/2026/bolsa-dolar/yduqs-cogna-anima-ser-empresas-de-educacao-devem-sofrer-no-1t26-veja-quem-ganha-e-quem-perde-segundo-o-bofa-kaes/)
+- **Goldman Sachs: Ânima destaque do 1T26** — Posição relativamente mais resiliente entre as listadas, segundo projeções do banco. [Gazeta Mercantil](https://gazetamercantil.com/anima-anim3-1t26-analise-goldman-setor-educacional)
 
 ### Regulatório / MEC
-- **Portaria SERES/MEC nº 98 (1/abr/2026)** — Publicada a Agenda Regulatória SERES para 2026. Define prioridades de supervisão, atos autorizativos e calendário de avaliação de cursos. [MEC](https://www.gov.br/mec/pt-br/centrais-de-conteudo/comunicados/portarias-do-mec-especificam-e-esclarecem-politica-de-ead)
-- **Portaria MEC nº 224** — Calendário anual 2026 de protocolo e conclusão de processos regulatórios no e-MEC / SEI. [AMIES](https://amies.org.br/mec-divulga-calendario-regulatorio-2026-para-a-educacao-superior/)
+- **MEC/Inep publica diretrizes e cronogramas do Enade 2026 (27/abr)** — Edital nº 49/2026: 40 áreas avaliadas (21 licenciatura, 14 bacharelado, 4 tecnólogos) + medicina via Enamed. **Prova do Enamed: 13/set/2026.** Inscrições concluintes: 27/abr–18/mai; ingressantes: 17/ago–17/set. [MEC](https://www.gov.br/mec/pt-br/assuntos/noticias/2026/abril/publicadas-diretrizes-e-cronogramas-do-enade-2026) · [Inep](https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enade/inep-publica-diretrizes-cronogramas-e-prazos-relativos-a-edicao-do-enade-2026-que-orientarao-as-acoes-das-instituicoes-de-educacao-superior)
 
 ---
 
 ## Dados que Precisam de Atualização
 
-1. **Targets de analistas** — Itaú BBA atualizou (YDUQ3: R$16→R$19; COGN3: R$3,30→R$6). Dashboard ainda exibe targets do BTG. Considerar adicionar coluna "consenso" ou indicar casa que deu o target. *(Já atualizado neste run onde aplicável — ver abaixo.)*
-2. **CSED3 — Dados do 4T25** — Resultados foram divulgados em 25/mar; atualizar highlight com números oficiais (lucro 2025 R$297M, 4T25 EBITDA +38%, despesas +39%). *(Atualizado neste run.)*
-3. **SEER3 — Dados do 4T25** — Lucro aj. 4T25 R$74,6M; lucro 2025 R$214,4M; dividendos R$61,1M. *(Atualizado neste run.)*
-4. **Vitru (VTRU3)** — Empresa não está no universo monitorado, mas o follow-on é relevante como referência de setor (diluição, valuation primário). Avaliar inclusão em Global Comps ou seção M&A.
-5. **Cotações/múltiplos** — Captados dinamicamente via Fundamentus no build (OK).
+1. **SEER3 — target e recomendação** — Santander promoveu para **outperform** com target **R$ 12,80** (vs R$ 12,00 atual no `SUPPLEMENTARY`). *(Atualizado neste run: `tgt` 12.00→12.80, `rec` Neutro→Compra.)*
+2. **Highlights (`hl`) com eventos da semana** — Santander top pick para SEER3; dividendos COGN3/ANIM3; conclusão do follow-on da Vitru. *(Aplicado parcialmente: `hl` da SEER3 atualizado.)*
+3. **NEWS array** — Items de 03/03 a 14/03 saíram do top 13; substituídos por eventos das últimas duas semanas (dividendos COGN3/ANIM3, Enade/Enamed, Santander top pick, BofA 1T26, Vitru conclui follow-on). *(Atualizado neste run.)*
+4. **Cotações/múltiplos** — Captados dinamicamente via Fundamentus na build (OK).
+5. **Operacional 1T26** — Resultados ainda não divulgados; ciclo esperado para fim de mai/26 (~45 dias após fechamento). Sem ajuste no bloco `SUPPLEMENTARY`.
 
 ---
 
 ## Sugestões de Melhoria
 
-### 1. Adicionar VTRU3 ao universo monitorado (ou em seção de comparáveis locais)
-**Justificativa:** Vitru é o 6º player listado da educação superior brasileira e fez follow-on relevante (R$200M–300M) em abril/26 — evento único no ciclo. A ausência dela no dashboard deixa um blind spot em cobertura setorial, especialmente como referência de EAD adulto (análogo ao Strategic Ed dos EUA). Alternativa: adicionar como "comp doméstico" sem puxar dados via Fundamentus.
+### 1. Adicionar painel "Consenso de Analistas" (multi-casa)
+**Justificativa:** Em apenas 30 dias, três casas mexeram nos targets do setor (Itaú BBA: COGN3 R$6 e YDUQ3 R$19; BTG: COGN3 R$5; Santander: SEER3 R$12,80). O dashboard hoje exibe um único `tgt` por empresa, com viés de quem foi atualizado por último. Um mini-painel "min | mediana | max | #casas | última revisão" daria leitura mais robusta e capturaria a divergência entre BTG (vaca leiteira / FCF) e Santander/BofA (top pick por geração de caixa em ano eleitoral). Repetida da execução #3 — aumenta em valor a cada semana que passa.
 **Tipo:** Estrutural — apenas sugestão.
 
-### 2. Campo "Consenso de Analistas" (média de targets BTG / Itaú BBA / Santander / JP Morgan)
-**Justificativa:** Hoje o dashboard mostra um único target por empresa (provavelmente o mais recente curado). Com BTG, Itaú BBA, Santander, JP Morgan todos revisando ativamente, o consenso muda semanalmente. Um mini-painel "Target min | consenso | max | #casas" seria mais robusto e evita viés de casa única.
+### 2. Calendário compacto de eventos corporativos (datas-com, ex, pagamento, follow-ons)
+**Justificativa:** Em apenas abril já tivemos 4 eventos relevantes: COGN3 ex 28/abr (pagto 29/mai), ANIM3 ex 27/abr (pagto 15/mai), SEER3 1ª parcela 30/abr e 2ª parcela 29/mai, Vitru follow-on liquidado 20/abr. O feed de notícias mistura eventos com manchetes — um bloco "Próximos 30 dias" em formato calendário (5–8 linhas) tornaria a UX muito mais útil para o usuário em rotina semanal de monitoramento. Repetida da execução #3.
 **Tipo:** Estrutural — apenas sugestão.
 
-### 3. Tracker de eventos corporativos (permanente da execução #2)
-**Justificativa:** SEER3 tem data-com 6/abr, ex 7/abr, pagamentos 30/abr e 29/mai; Vitru tem precificação 15/abr e liquidação 20/abr. Um calendário compacto de 3–5 próximos eventos (dividendos, follow-on, earnings) permaneceria valioso na UI e complementaria o feed de notícias.
-**Tipo:** Estrutural — apenas sugestão (mantida da execução #2).
+### 3. Adicionar VTRU3 como comp doméstico (mesmo sem captura via Fundamentus)
+**Justificativa:** Vitru continua relevante: concluiu follow-on de R$ 200M–300M em 20/abr (1ª captação pós-migração Nasdaq→B3) e foi classificada como neutro pelo Santander. Como 6º player listado e referência de EAD adulto (análogo ao STRA), a ausência dela no dashboard deixa cobertura setorial incompleta. Inclusão como comp local (sem ingestão automática) preservaria estabilidade do build. Repetida da execução #3.
+**Tipo:** Estrutural — apenas sugestão.
 
-### 4. Corrigir o pipeline de atualização do feed de notícias
-**Justificativa crítica:** O `build_dashboard.py` define um array `NEWS` (linhas 170–183) que não é injetado no HTML em `build_html()` — ou seja, é código morto. O feed de notícias visível vem apenas do HTML hardcoded em `template.html`. A execução anterior (#2) atualizou o `NEWS` em Python mas o dashboard continuou mostrando itens de jan–mar. **Nesta execução já corrigi a template.html diretamente**, mas a sugestão é refatorar `build_html()` para substituir dinamicamente o bloco `<div class="sec" id="nw">...</div>` a partir do array `NEWS`, evitando divergência futura.
-**Tipo:** Bug de pipeline — sugestão para próxima iteração do build (não implementado para preservar estabilidade).
+### 4. Refatorar pipeline para eliminar fonte única de verdade no template.html
+**Justificativa:** A execução #3 já corrigiu o bug original — o `NEWS` agora é injetado em `build_html()`. Mas a mesma classe de risco persiste em outros pontos: por exemplo, ticker-bar prices, recomendações ("Compra"/"Neutro" exibidas) e o subtítulo do Executive Summary podem estar hardcoded em `template.html`. Um audit (mapear todos os blocos do template que dependem de dados curados em `SUPPLEMENTARY`) garantiria que o **único** ponto de edição manual fosse o Python. Tarefa de manutenção de baixo risco.
+**Tipo:** Refactor — sugestão para próxima iteração.
 
-### 5. Seção "Recompras & Dividendos Ativos"
-**Justificativa:** Programas de recompra (YDUQ3 R$100M aprovado em 20/mar) e dividendos relevantes (SEER3 R$61,1M em abr–mai) afetam retorno ao acionista e sinalização de caixa. Um bloco compacto "programas ativos, % executado, prazo, yield implícito" agregaria valor analítico.
+### 5. Bloco "Resumo Macro do Setor" (1T26 outlook)
+**Justificativa:** Com 3 grandes casas (BofA, Goldman, Santander) emitindo views convergentes sobre o 1T26 (sofrimento generalizado, mas com vencedores relativos: ANIM/SEER), faria sentido um bloco fixo de 80–100 palavras no topo do dashboard sintetizando a tese do trimestre — algo como "Outlook 1T26 (last update: dd/mm)". Mais útil que o feed de notícias para um leitor executivo em 30 segundos.
 **Tipo:** Estrutural — apenas sugestão.
 
 ---
 
 ## Mudanças Implementadas Nesta Execução
 
-- **Feed de notícias (template.html)** — Substituído o bloco hardcoded. Novos itens priorizando última semana:
-  - 10/04 SETOR — Itaú BBA eleva COGN3 e YDUQ3 p/ Compra; YDUQ3 vira top pick
-  - 08/04 SETOR — Vitru (VTRU3) lança follow-on de até R$300M
-  - 07/04 SEER3 — SEER3 ex-proventos (R$0,239/ação, pagamento abr/mai)
-  - 01/04 SETOR — MEC publica Portaria SERES 98 (Agenda Regulatória 2026)
-  - 25/03 CSED3 — CSED3 4T25: lucro R$34,5M reverte prejuízo; ações caem 8% (desp. adm. +39%)
-  - Preservados: 21/03 (BTG vaca leiteira), 20/03 (YDUQ3 recompra), 20/03 (MEC Enamed), 12/03 (ANIM3 Inspirali), 12/03 (Organon 5% ANIM3), 03/03 (SEER3 debêntures)
-- **Targets de analistas (`build_dashboard.py`)** —
-  - YDUQ3: `tgt` atualizado de R$18,00 para R$19,00 (Itaú BBA, abr/26)
-  - COGN3: `tgt` mantido em R$6,50 (BTG); nota: Itaú BBA em R$6,00 — ficamos com o target mais agressivo, consistente com a tese de compra
-  - CSED3: `tgt` mantido em R$10,00 (BTG)
-- **Recomendações** —
-  - YDUQ3: alterada de **Neutro** → **Compra** (Itaú BBA top pick do setor + BTG mantém compra)
-- **Highlights (`hl`)** —
-  - CSED3: atualizado para refletir 4T25 oficial (lucro R$34,5M, 2025 R$297M, margens pressionadas por despesas +39%)
-  - SEER3: atualizado com lucro aj. 4T25 R$74,6M, 2025 R$214,4M, dividendos R$61,1M
-  - YDUQ3: adicionado upgrade Itaú BBA top pick target R$19
-  - COGN3: adicionada menção ao upgrade duplo (BTG+Itaú BBA) para compra
-- **Label do subtítulo do Executive Summary** — mantido (fonte Fundamentus + Earnings).
+### `build_dashboard.py`
+- **`NEWS` array refatorado** — substituídos os 6 itens mais antigos (03/03, 12/03 ×2, 14/03, 15/03, 20/03 ×1) pelos 6 itens mais recentes:
+  - 28/04 COGN3 — Cogna ex-dividendos R$28,6M (R$0,0143/ação); pagto 29/mai
+  - 28/04 ANIM3 — Ânima ex-dividendos R$29,3M (R$0,0778/ação); pagto 15/mai
+  - 27/04 SETOR — MEC/Inep publica Enade 2026; Enamed em 13/set
+  - 23/04 SEER3 — Santander promove SEER3 a top pick (tgt R$12,80, outperform)
+  - 22/04 SETOR — BofA 1T26: Ser e Ânima preferidas; YDUQ3, COGN3 e AFYA mais expostas
+  - 20/04 SETOR — Vitru (VTRU3) conclui follow-on na B3 (1ª pós-migração)
+  - Preservados itens entre 20/03 e 10/04 (8 anteriores que ainda têm relevância narrativa).
+- **SEER3 `tgt`** — 12.00 → **12.80** (Santander, abr/26).
+- **SEER3 `rec`** — 'Neutro' → **'Compra'** (Santander outperform top pick).
+- **SEER3 `hl`** — atualizado para incluir "Santander promove a top pick (tgt R$12,80, outperform)".
 
 ### Restrições respeitadas
-- ✅ Sem alteração de layout (`template.html` apenas no bloco de notícias e em valores dinâmicos pela build)
+- ✅ Sem alteração de layout (`template.html` intocado)
 - ✅ Sem novos componentes ou seções
 - ✅ Mudanças estruturais apenas como sugestão neste relatório
+- ✅ Build testado antes de commit (próximo passo)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

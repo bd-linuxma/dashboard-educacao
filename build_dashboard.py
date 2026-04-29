@@ -138,8 +138,8 @@ SUPPLEMENTARY = {
         'st':300,'sp':150,'se':120,'sm':2.0,'tp':700,'te':200,'tm':9000,'vm':350,
         'pdd':11.0,'evs':23,'dl_ebitda':1.35,'fcf':300,'fcf_ebitda':52,'goodwill_pct':28,
         'ead_exp':20,'pr':120,'pg':12,
-        'rec':'Neutro','tgt':12.00,
-        'hl':'4T25: lucro aj. R$74,6M reverte prejuízo. 2025: lucro R$214,4M. Dividendos R$61,1M (abr/mai 2026). 7ª debêntures R$250M.',
+        'rec':'Compra','tgt':12.80,
+        'hl':'4T25: lucro aj. R$74,6M reverte prejuízo. 2025: lucro R$214,4M. Dividendos R$61,1M (abr/mai 2026). Santander promove a top pick (tgt R$12,80, outperform).',
     },
     'CSED3': {
         'fn': 'Cruzeiro do Sul', 'brands': 'Cruzeiro do Sul, Universidade Positivo',
@@ -168,19 +168,19 @@ INTL = [
 ]
 
 NEWS = [
+    ['28/04','COGN3','Cogna ex-dividendos — R$28,6M (R$0,0143/ação); pagamento em 29/mai','↑'],
+    ['28/04','ANIM3','Ânima ex-dividendos — R$29,3M (R$0,0778/ação); pagamento em 15/mai','↑'],
+    ['27/04','SETOR','MEC/Inep publica diretrizes Enade 2026; prova do Enamed em 13/set','→'],
+    ['23/04','SEER3','Santander promove SEER3 a top pick do setor (tgt R$12,80, outperform)','↑'],
+    ['22/04','SETOR','BofA: Ser e Ânima preferidas no 1T26; YDUQ3, COGN3 e AFYA mais expostas à regulação','→'],
+    ['20/04','SETOR','Vitru (VTRU3) conclui follow-on na B3 — 1ª oferta pós-migração Nasdaq→B3','→'],
     ['10/04','SETOR','Itaú BBA eleva COGN3 e YDUQ3 p/ Compra; Yduqs vira top pick (target R$19)','↑'],
-    ['08/04','SETOR','Vitru (VTRU3) lança follow-on de até R$300M; precificação 15/abr','→'],
     ['07/04','SEER3','SEER3 ex-proventos — dividendos R$61,1M (R$0,239/ação) em abr/mai','↑'],
     ['01/04','SETOR','MEC publica Portaria SERES 98 — Agenda Regulatória 2026','→'],
     ['25/03','CSED3','CSED3 4T25: lucro R$34,5M reverte prejuízo; ações caem 8% (desp. adm. +39%)','↓'],
     ['21/03','SETOR','BTG eleva Cogna p/ compra; setor educação vive era de vaca leiteira','↑'],
     ['20/03','YDUQ3','Yduqs aprova recompra de até R$100M em ações (prazo 18 meses)','↑'],
     ['20/03','SETOR','MEC pune 50+ cursos de medicina por baixo desempenho no Enamed 2025','↓'],
-    ['15/03','YDUQ3','Yduqs despenca 14% após balanço 4T25 frustrar expectativas','↓'],
-    ['14/03','COGN3','Cogna recua 6,9% após lucro cair 76% no 4T25','↓'],
-    ['12/03','ANIM3','Ânima 4T25: RL +8,6%, Inspirali +15,6%, DL/EBITDA melhora p/ 2,49x','→'],
-    ['12/03','ANIM3','Organon Capital atinge 5% das ações da Ânima (20,2M de ações)','→'],
-    ['03/03','SEER3','Ser Educacional conclui 7ª emissão de debêntures: R$250M para pré-pagamento de dívidas','→'],
 ]
 
 
@@ -448,5 +448,5 @@ def main():
     print(f'   Snapshot: output/data.json')
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
