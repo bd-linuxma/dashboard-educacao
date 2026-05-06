@@ -168,6 +168,8 @@ INTL = [
 ]
 
 NEWS = [
+    ['05/05','SETOR','JP Morgan alerta YDUQ3 e SEER3 pós-Enamed (107 cursos reprovados); BTG pede calma','↓'],
+    ['02/05','YDUQ3','Itaú BBA corta preço-alvo de YDUQ3 — cenário desafiador em 2026','↓'],
     ['28/04','COGN3','Cogna ex-dividendos — R$28,6M (R$0,0143/ação); pagamento em 29/mai','↑'],
     ['28/04','ANIM3','Ânima ex-dividendos — R$29,3M (R$0,0778/ação); pagamento em 15/mai','↑'],
     ['27/04','SETOR','MEC/Inep publica diretrizes Enade 2026; prova do Enamed em 13/set','→'],
@@ -179,8 +181,6 @@ NEWS = [
     ['01/04','SETOR','MEC publica Portaria SERES 98 — Agenda Regulatória 2026','→'],
     ['25/03','CSED3','CSED3 4T25: lucro R$34,5M reverte prejuízo; ações caem 8% (desp. adm. +39%)','↓'],
     ['21/03','SETOR','BTG eleva Cogna p/ compra; setor educação vive era de vaca leiteira','↑'],
-    ['20/03','YDUQ3','Yduqs aprova recompra de até R$100M em ações (prazo 18 meses)','↑'],
-    ['20/03','SETOR','MEC pune 50+ cursos de medicina por baixo desempenho no Enamed 2025','↓'],
 ]
 
 
