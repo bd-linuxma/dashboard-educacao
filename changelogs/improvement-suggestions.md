@@ -1,72 +1,139 @@
-# Relatório de Sugestões de Melhoria — 06/05/2026 (Execução #5)
+# Relatório de Sugestões de Melhoria — 17/05/2026 (Execução #6)
 
-## Notícias Relevantes Encontradas (últimos ~7 dias, 29/abr–06/mai)
+## Contexto da semana
+A semana foi dominada pela **temporada de divulgação do 1T26** — primeira janela em que todo o setor reportou sob o novo marco regulatório do EAD (Decreto 12.456/2025). Cinco das cinco listadas brasileiras já reportaram entre 6 e 13/mai, mais Vitru (VTRU3). Tese de mercado consolidando: **caixa forte e disciplina operacional sobrepondo-se à pressão regulatória** (Safra: "setor entrega caixa forte e supera expectativas"). Ânima e Ser são os destaques positivos do trimestre; Cruzeiro do Sul é o destaque negativo (ação cai 6,7% no release).
 
-### Sell-side / regulatório — destaque da semana
-- **JP Morgan liga alerta para YDUQ3 e SEER3 após notas do Enamed (mai/26)** — Banco classifica como "surpresa ruim": empresas sob cobertura tiveram desempenho fraco em vários cursos avaliados no Enamed; até **15% das vagas da Yduqs e 11% das da Ser** podem ser impactadas por sanções. **BTG pede calma** — argumenta que efeito real depende de prazos regulatórios e não invalida a tese de FCF do setor. [Seu Dinheiro – JP Morgan alerta](https://www.seudinheiro.com/2026/empresas/surpresa-ruim-jp-morgan-liga-alerta-para-yduqs-yduq3-e-outras-depois-das-notas-do-enademed-btg-pede-calma-bdap/) · [Seu Dinheiro – prova surpresa](https://www.seudinheiro.com/2026/empresas/anima-anim3-cogna-cogn3-yduqs-yduq3-e-outras-quem-ganhou-10-na-prova-surpresa-do-jp-morgan-bdap/) · [Metrópoles – 107 cursos reprovados](https://www.metropoles.com/brasil/veja-as-notas-dos-cursos-de-medicina-no-enamed-107-sao-reprovados)
-- **Itaú BBA corta preço-alvo de YDUQ3 (mai/26)** — Casa que havia elevado para top pick em 10/abr (target R$19) agora reduz target citando "cenário desafiador em 2026" — captação EAD pressionada e impacto regulatório de medicina. *Reversão de mensagem em ~3 semanas; conflita com `tgt:19.00` e `rec:'Compra'` no `SUPPLEMENTARY`.* [Money Times](https://www.moneytimes.com.br/itau-bba-corta-preco-alvo-de-yduqs-yduq3-com-perspectiva-de-cenario-desafiador-em-2026-entenda-apsa/)
-- **YDUQ3 — dividendos R$ 80M aprovados (29/mai)** — R$ 0,2737/ação aprovados em assembleia 26/abr; data-base 26/abr; pagamento 29/mai. [Money Times — visão geral YDUQ3](https://www.moneytimes.com.br/cotacao/yduq3/)
+---
 
-### Calendário / agenda corporativa
-- **Ânima — release 1T26 em 6/mai (após mercado) e teleconferência 7/mai 9h00** — primeiro grande release operacional do trimestre no setor. [RI Ânima](https://ri.animaeducacao.com.br/)
-- **SEER3 — 1ª parcela de dividendos paga em 30/abr** (R$ 30,5M); 2ª parcela em 29/mai. [Money Times](https://www.moneytimes.com.br/ser-educacional-seer3-aprova-r-611-milhoes-em-dividendos-pagamento-sera-em-duas-parcelas-ate-maio-de-2026-kda/)
+## Notícias Relevantes Encontradas (últimos ~10 dias, 7–17 mai)
+
+### Temporada de resultados 1T26 (em ordem cronológica)
+
+- **06–07/mai — ANIM3 1T26** — Lucro aj. R$ 124,8M (+8,2% YoY); lucro controladores R$ 106,2M (+11%). RL consolidada R$ 1,12bi (+7,7%). Ticket médio **+11%**. Core +7,7% em graduação. Goldman Sachs aponta como **"melhor posicionada"** do setor para a transição regulatória. CEO: "mais positivo do que negativo" sobre novas regras EAD. [Infomoney](https://www.infomoney.com.br/mercados/anima-anim3-resultados-primeiro-trimestre-2026/) · [Seu Dinheiro](https://www.seudinheiro.com/2026/empresas/anima-anim3-sente-as-dores-e-delicias-das-novas-regras-do-ead-mas-ceo-crava-mais-positivo-do-que-negativo-veja-destaques-do-1t26-bdap/) · [Goldman destaque](https://www.infomoney.com.br/mercados/goldman-sachs-ve-anima-melhor-posicionada-no-setor-de-educacao-no-1t26/)
+
+- **07/mai (after-market) — YDUQ3 1T26** — Lucro aj. R$ 150M (-2,1% YoY). RL R$ 1,5bi (+1,5%). EBITDA aj. R$ 504M (-2%). Base alunos 1,39M (-0,9%). **Guidance FCA 2026: R$ 520–620M** (vs R$ 500M em 2025) — leitura positiva. **Ação YDUQ3 +6% no pregão de 08/mai.** JP Morgan mantém cautela. [ADVFN](https://br.advfn.com/jornal/2026/05/yduqs-lucra-r-150-milhoes-no-1t26-anuncia-guidance-de-caixa-e-acoes-disparam-na-b3) · [Infomoney](https://www.infomoney.com.br/mercados/yduqs-yduq3-acao-salta-6-mesmo-apos-resultados-fracos-no-1t-de-olho-no-guidance/) · [JP Morgan cautela](https://guiadoinvestidor.com.br/mercado/yduqs-yduq3-perde-forca-no-1t26-e-jp-morgan-mantem-cautela/)
+
+- **~12/mai — COGN3 1T26** — Lucro líquido **R$ 141,4M (+48,7%)**. RL **R$ 2,15bi (+32%)**. EBITDA **R$ 680M (+22%)**. FCF **R$ 253M (+69%)**. **DL/EBITDA cai p/ 1,13x.** Educação básica (Vasta + Saber integradas) explode **+73%** com PNLD; Ensino Superior +11%. Safra coloca como destaque do trimestre. [Money Times](https://www.moneytimes.com.br/cogna-cogn3-ve-lucro-crescer-487-para-r-1414-milhoes-com-ajuda-de-frente-de-educacao-basica-vtra/) · [BPMoney](https://bpmoney.com.br/negocios/empresas/cogna-cogn3-lucra-r-1414-milhoes-no-1t26-e-receita-sobe-32/) · [Safra Especialista](https://oespecialista.safra.com.br/educacao-1t26-caixa-transicao-regulatoria/)
+
+- **~12/mai — SEER3 1T26** — Lucro aj. **R$ 81M (+58,1%)**. RL R$ 583,8M (+8,1%). EBITDA aj. R$ 158,2M (+10,1%). Base presencial **~197 mil alunos (+6,2%)**. **DL/EBITDA despenca p/ 0,75x** (vs 1,35x no 1T25); Dívida líquida -35,4%. Tese pós-Enamed retomada. [Infomoney](https://www.infomoney.com.br/mercados/ser-educacional-seer3-resultados-primeiro-trimestre-2026/)
+
+- **13/mai — CSED3 1T26** — Lucro aj. **R$ 62,7M (-28,1%)**. Pressão sobre EBITDA e margens operacionais. **Ação CSED3 -6,71% no dia** (R$ 4,73). Único destaque negativo do trimestre. [ADVFN](http://br.advfn.com/jornal/2026/05/cruzeiro-do-sul-ve-lucro-cair-28-no-1t26-apos-pressao-sobre-ebitda-e-margens-operacionais) · [Finance News](https://financenews.com.br/2026/05/cruzeiro-do-sul-csed3-reporta-lucro-liquido-ajustado-de-r-627-milhoes-no-1t26/)
+
+- **VTRU3 1T26** — Lucro aj. R$ 91,8M (+24,1%). RL R$ 579M. Margem operacional **40,6%**. Alunos +14% (modelo híbrido compensa queda do 100% digital). Follow-on de R$ 200M (potencial R$ 300M) concluído a R$ 14,69/ação. [Análise de Ações](https://www.analisedeacoes.com/noticias/lucro-ajustado-da-vitru-educacao-vtru3-cresce-24-no-1-trimestre-de-2026/) · [Cogna/Vitru/Ânima](https://www.infomoney.com.br/mercados/cogna-e-vitru-sobem-anima-cai-apos-1t26-como-foram-os-balancos-das-educacionais/)
+
+### Síntese sell-side pós-resultados
+
+- **Safra** — "Setor entrega caixa forte e supera expectativas no 1T26"; Cogna destacada por exposição a presencial premium + PNLD. [Safra](https://oespecialista.safra.com.br/educacao-1t26-caixa-transicao-regulatoria/)
+- **Goldman Sachs** — Ânima melhor posicionada para a temporada e para a transição regulatória.
+- **Santander** — Mantém SEER3 como top pick com FCF yield 16%.
+- **BTG** — Mantém Compra YDUQ3 com geração de caixa estimada em 18% em 2026; SEER3 movido para Neutro (tgt R$15) por preocupações regulatórias. [Seu Dinheiro – BTG/Cogna](https://www.seudinheiro.com/2026/empresas/educacao-vive-era-de-vaca-leiteira-e-btg-eleva-recomendacao-da-cogna-cogn3-para-compra-descubra-a-acao-queridinha-do-banco-lvgb/)
+- **JP Morgan** — Mantém cautela com YDUQ3 mesmo após guidance positivo.
 
 ### Regulatório / MEC
-- **MEC — Portaria 224/2026 (publicada 02/mar/26)** — Calendário Anual de processos regulatórios no e-MEC e SEI para 2026. *Já em vigor; relevante como contexto.* [MEC](https://www.gov.br/mec/pt-br/assuntos/noticias/2026/marco/mec-divulga-prazos-dos-processos-regulatorios-no-e-mec-e-sei) · [AMIES](https://amies.org.br/mec-divulga-calendario-regulatorio-2026-para-a-educacao-superior/)
-- **Decreto 12.456/2025 + Portarias 378 e 381/2025 — vigência segue até mai/2027** — Marco EAD: medicina, direito, odontologia, enfermagem e psicologia exclusivamente presenciais; transição de 2 anos para IES adequarem cursos. [MEC](https://www.gov.br/mec/pt-br/politica-regulacao-supervisao-educacao-superior/ead) · [Mattos Filho](https://www.mattosfilho.com.br/unico/regras-marco-regulatorio-ead/)
+
+- **Enamed 2026 antecipado para ago/set** — Secretário SERES/MEC confirma antecipação. [ABMES](https://abmes.org.br/noticias/detalhe/5193/enamed-2026-deve-ser-antecipado-para-agosto-ou-setembro-afirma-seres-mec)
+- **Decreto 12.456/2025 + nova portaria EAD** — Vigência segue; instituições têm até 19/mai/2027 (2 anos) para adequar cursos. Medicina, Direito, Odontologia, Enfermagem e Psicologia: exclusivamente presenciais. Nova portaria do MEC publicada em maio trouxe ajuste nas regras de transição, percebido como positivo pelo setor. [CNN](https://www.cnnbrasil.com.br/educacao/ead-tire-10-duvidas-sobre-decreto-do-mec-sobre-ensino-a-distancia/) · [Decreto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12456.htm) · [Agência Brasil](https://agenciabrasil.ebc.com.br/educacao/noticia/2025-05/decreto-define-medicina--direito-e-odonto-como-cursos-presenciais)
+- **Supervisão medicina pós-Enamed 2025** — SERES/MEC publicou 5 portarias em 17/mar/26 (Nota Técnica nº 4/2026/CGSE/DISUP/SERES) instaurando supervisão de cursos com baixo desempenho. Medidas precautórias vigem até Enade 2026. [MEC](https://www.gov.br/mec/pt-br/centrais-de-conteudo/comunicados/enamed-mec-instaura-processo-de-supervisao-a-cursos-de-medicina)
 
 ---
 
 ## Dados que Precisam de Atualização
 
-1. **YDUQ3 `tgt`/`rec`/`hl`** — Itaú BBA cortou target após classificá-la como top pick em 10/abr. Sem número específico no resumo de imprensa; **mantido em `19,00`/`'Compra'`** nesta execução por falta de dado preciso. Sugestão: revisar manualmente após release do 1T26 (~3ª semana de mai/26) quando o consenso se reorganizar.
-2. **SEER3 — risco regulatório no `hl`** — JP Morgan estima 11% das vagas em risco. `hl` atual da SEER3 não menciona o risco regulatório, só o upside Santander. Sem alteração nesta execução (preferi não diluir a tese positiva sem update completo das casas que reagem ao Enamed).
-3. **`NEWS` array** — Adicionados 2 itens (JP Morgan/BTG, Itaú BBA cut), removidos 2 itens mais antigos de 20/03 (recompra YDUQ3 e MEC pune medicina — esta última está superada pela narrativa Enamed mais recente). *Aplicado nesta execução.*
-4. **Cotações/múltiplos** — Captados via Fundamentus na build (OK).
-5. **Operacional 1T26** — Ânima divulga em 6–7/mai. Demais (COGN3, YDUQ3, SEER3, CSED3) esperadas até fim de mai/26. Sem ajuste no `SUPPLEMENTARY` neste run.
+1. **`hl` (highlight) de cada empresa** — todos os 5 ainda mostram texto do 4T25 ou 2025 anual. **Atualizado nesta execução com dados 1T26 verificados em release.**
+2. **`NEWS` array** — recompõe-se com 6 itens da temporada 1T26; removidos 6 itens datados de mar–abr. **Atualizado nesta execução.**
+3. **Operacional (`SUPPLEMENTARY`)** — base de alunos, tickets, segmentos. SEER3 reporta presencial ~197mil (+6,2%); YDUQ3 base total 1,39M (-0,9%); ANIM3 ticket médio +11%. **Sem ajuste numérico nesta execução** — exige update completo trimestre a trimestre, fora do escopo de mudanças seguras automatizadas.
+4. **`tgt`/`rec` (consenso sell-side)** — dispersão grande: BTG YDUQ3 R$23 (Compra), Itaú BBA cortou (sem número público), Santander SEER3 R$12,80 (outperform), BTG SEER3 R$15 (Neutro). **Mantido tudo como está** — atualizar exigiria critério claro de "qual casa".
+5. **VTRU3** — segue sem aparecer no dashboard (5 tickers brasileiros). Reportou 1T26 muito forte; concluiu follow-on R$200M. **Sugestão estrutural — não implementado.**
+6. **Cotações/múltiplos** — captados via Fundamentus na build. OK.
 
 ---
 
 ## Sugestões de Melhoria
 
-### 1. Capturar e exibir consenso multi-casa de targets/recomendações
-**Justificativa:** A volatilidade do call sell-side está alta — Itaú BBA elevou YDUQ3 a top pick em 10/abr (R$19) e cortou em 02/mai (~3 semanas depois). O dashboard hoje mostra apenas o último `tgt`, criando viés de leitura. Exibir um resumo "min | mediana | max | #casas | última revisão" daria leitura mais robusta. Repetida das execuções #3 e #4 — **valor sobe a cada semana** com a dispersão de calls (BTG: vaca leiteira; Santander: SEER3 top pick; JP Morgan: alerta YDUQ3/SEER3; Itaú BBA: oscila).
+### 1. **NOVO** — Bloco "Resumo 1T26 do setor" no topo do Executive Summary
+**Justificativa:** Pela 1ª vez, todo o setor reportou sob o novo marco EAD. Há narrativa clara consolidada: (a) **caixa forte e DL/EBITDA caindo** em todas exceto Ânima (que ainda está em 2,49x), (b) **Ânima/Cogna/Ser positivos** pelo trimestre, (c) **CSED3 negativa** (única que caiu pós-release), (d) **YDUQ3 mista** — números fracos mas guidance forte. Um bloco fixo de 4–6 linhas com leitura consolidada do trimestre tem mais utilidade executiva que ler o feed de 13 itens em sequência. Repetida das execuções #3, #4 e #5 — **agora com base concreta de dados** que justifica ainda mais.
 **Tipo:** Estrutural — apenas sugestão.
 
-### 2. Bloco "Risco Regulatório por empresa" (% de vagas/cursos sob supervisão)
-**Justificativa:** O JP Morgan publicou métrica concreta (15% YDUQ3 e 11% SEER3 das vagas em risco) que é exatamente o tipo de número que faltava ao dashboard. Hoje há `ead_exp` (% receita EAD), mas nada que quantifique exposição a sanções regulatórias específicas (Enamed, supervisão de cursos de medicina, Decreto 12.456). Um KPI "% vagas em supervisão" + "% receita medicina" daria leitura imediata do risco em ano regulatório intenso.
+### 2. Capturar e exibir consenso multi-casa de targets/recomendações
+**Justificativa:** Dispersão de calls aumentou nesta janela — BTG (YDUQ3 R$23/Compra, SEER3 R$15/Neutro), Santander (SEER3 R$12,80/Outperform), Itaú BBA (YDUQ3 cortou), JP Morgan (cautela YDUQ3), Goldman (ANIM3 destaque). Mostrar **min | mediana | max | #casas | última revisão** dá leitura robusta. Repetida das execuções #3, #4 e #5.
 **Tipo:** Estrutural — apenas sugestão.
 
-### 3. Calendário compacto de eventos corporativos (releases, ex-dividendo, follow-ons)
-**Justificativa:** Apenas em maio temos: 6/mai release ANIM3 + 7/mai call ANIM3 + 15/mai pagto dividendos ANIM3 + 29/mai pagto dividendos COGN3/YDUQ3/SEER3 (2ª parcela). Um bloco "Próximos 30 dias" (5–8 linhas em formato calendário) torna a UX muito mais útil em rotina semanal. Repetida das execuções #3 e #4.
+### 3. Bloco "Guidance Tracker" — projeções da própria empresa
+**Justificativa:** YDUQ3 divulgou guidance FCA R$520–620M para 2026 (vs R$500M em 2025) — é exatamente o tipo de número que move o consenso. Cogna, Ânima, Ser, Cruzeiro tipicamente também trazem orientações de caixa/EBITDA/CAPEX em seus releases. Um bloco com **guidance vs realizado YTD** por empresa daria leitura de "está cumprindo ou não" — mais útil que o `tgt` analista.
 **Tipo:** Estrutural — apenas sugestão.
 
-### 4. Adicionar VTRU3 como comp doméstico
-**Justificativa:** Vitru concluiu follow-on em 20/abr e está classificada como neutra pelo Santander. Inclusão como 6º player listado (sem ingestão Fundamentus automática, mantendo build estável) preservaria cobertura completa do setor. Repetida das execuções #3 e #4.
+### 4. Bloco "Risco Regulatório por empresa" (% vagas/cursos sob supervisão)
+**Justificativa:** Mantida da execução #5 — Enamed continua sendo gatilho regulatório central; SERES publicou 5 portarias em 17/mar instaurando supervisão. Dashboard hoje tem `ead_exp` mas nada que quantifique exposição a sanções concretas. KPI "% vagas em supervisão" + "% receita medicina" + "% receita EAD pura" daria leitura imediata.
 **Tipo:** Estrutural — apenas sugestão.
 
-### 5. Bloco "Outlook do trimestre" no topo (sintese sell-side)
-**Justificativa:** Com 4 casas (BofA, Goldman, Santander, JP Morgan) emitindo views convergentes-divergentes sobre 1T26, faria sentido um bloco fixo de 80–100 palavras sintetizando a tese consolidada (sofrimento generalizado mas com vencedores relativos: ANIM/SEER em FCF; YDUQ3 sob pressão regulatória após Enamed). Mais útil que o feed de notícias para um leitor executivo em 30 segundos. Repetida da execução #4.
+### 5. Adicionar VTRU3 como comp doméstico
+**Justificativa:** Repetida #3, #4 e #5 — **agora ainda mais relevante**: VTRU3 reportou 1T26 muito forte (lucro aj. +24%, margem op. 40,6%, alunos +14%) e concluiu follow-on R$200M. Liquidez na B3 cresceu pós-oferta. Inclusão como 6º player listado preservaria cobertura completa do setor BR.
+**Tipo:** Estrutural — apenas sugestão.
+
+### 6. Calendário compacto de eventos corporativos (releases, ex-dividendo)
+**Justificativa:** Repetida #3, #4 e #5. Próximos 30 dias: 29/mai pgto dividendos COGN3 + SEER3 (2ª parcela); 1ª quinzena jun — assembleias e eventos pós-1T26. Um bloco "Próximos 30 dias" (5–8 linhas) torna UX muito mais útil em rotina semanal.
 **Tipo:** Estrutural — apenas sugestão.
 
 ---
 
 ## Mudanças Implementadas Nesta Execução
 
-### `build_dashboard.py`
-- **`NEWS` array** — adicionados 2 itens novos no topo:
-  - `05/05 SETOR` — JP Morgan alerta YDUQ3 e SEER3 pós-Enamed (107 cursos reprovados); BTG pede calma `↓`
-  - `02/05 YDUQ3` — Itaú BBA corta preço-alvo de YDUQ3 — cenário desafiador em 2026 `↓`
-- **`NEWS` array** — removidos 2 itens mais antigos de 20/03 (mantém 13 itens):
-  - `20/03 YDUQ3 — Yduqs aprova recompra de até R$100M` (datado; substituído pela narrativa de mai/26)
-  - `20/03 SETOR — MEC pune 50+ cursos de medicina por baixo Enamed 2025` (superado pela cobertura mais recente do Enamed em 27/abr e 05/mai)
+### `build_dashboard.py` — `NEWS` array
+**Adicionados 6 itens da temporada 1T26 (em ordem cronológica decrescente):**
+- `13/05 CSED3` — Lucro aj. R$62,7M no 1T26 (-28%); ação cai 6,7% pós-release `↓`
+- `12/05 SEER3` — Lucro aj. R$81M no 1T26 (+58%); DL/EBITDA despenca p/ 0,75x `↑`
+- `12/05 COGN3` — Lucro R$141,4M no 1T26 (+48,7%); RL +32%; PNLD impulsiona ed. básica (+73%) `↑`
+- `11/05 SETOR` — Safra: setor entrega caixa forte e supera expectativas no 1T26 `↑`
+- `08/05 YDUQ3` — Lucro aj. R$150M (-2,1%); guidance FCA 2026 R$520–620M; ação +6% `↑`
+- `07/05 ANIM3` — Lucro aj. R$124,8M no 1T26 (+8,2%); ticket +11%; Goldman destaca `↑`
 
-### Correção operacional
-- **`build_dashboard.py`** estava com últimas 3 linhas truncadas no mount Linux (`if __name__ == "__m`) — provável artefato de execução anterior; corrigido para `if __name__ == "__main__":\n    main()\n`. Sem essa correção, o build falharia com `SyntaxError`.
+**Removidos 6 itens mar/abr (mantém 13 itens totais):**
+- `20/04` Vitru follow-on (substituído pela narrativa de resultados VTRU3 mais ampla)
+- `10/04` Itaú BBA eleva COGN3/YDUQ3 (parcialmente revertido em 02/mai)
+- `07/04` SEER3 ex-proventos (dividendos R$61,1M já mencionados em hl)
+- `01/04` MEC Portaria 98 (datado; mantida menção em portaria mais ampla)
+- `25/03` CSED3 4T25 (substituído por 13/05 1T26 release)
+- `21/03` BTG eleva Cogna (datado; tese de vaca leiteira já consolidada)
+
+### `build_dashboard.py` — `SUPPLEMENTARY[*].hl` (textos descritivos)
+Atualizados os 5 highlights para refletir dados do 1T26 (em vez de 4T25/2025 anual). É uma **melhoria de texto descritivo**, não mudança estrutural — não altera layout, gráficos nem dados operacionais subjacentes (`st`, `sp`, `se`, `tp`, `tm`, segmentos, etc., permanecem inalterados).
+
+- **COGN3** `hl`: `1T26: RL R$2,15bi (+32%). Lucro R$141,4M (+48,7%). EBITDA R$680M (+22%). FCF R$253M (+69%). Ed. básica (Vasta+Saber) +73% com PNLD. DL/EBITDA 1,13x.`
+- **YDUQ3** `hl`: `1T26: RL R$1,5bi (+1,5%). Lucro aj. R$150M (-2,1%). EBITDA aj. R$504M (-2%). Guidance FCA 2026: R$520-620M (vs R$500M em 2025). Ação +6% pós-release.`
+- **ANIM3** `hl`: `1T26: Lucro aj. R$124,8M (+8,2%). RL R$1,12bi (+7,7%). Ticket médio +11%. Core +7,7% em graduação. Goldman: melhor posicionada do setor.`
+- **SEER3** `hl`: `1T26: Lucro aj. R$81M (+58%). RL R$583,8M (+8,1%). EBITDA aj. R$158,2M (+10,1%). DL/EBITDA cai p/ 0,75x (de 1,35x). Santander mantém top pick.`
+- **CSED3** `hl`: `1T26: Lucro aj. R$62,7M (-28%). Pressão sobre EBITDA e margens operacionais. Ação caiu 6,7% pós-release. BTG mantém target R$10 (Compra).`
 
 ### Restrições respeitadas
 - ✅ Sem alteração de layout (`template.html` intocado)
 - ✅ Sem novos componentes ou seções
+- ✅ Sem ajuste de dados operacionais (base alunos, tickets, segmentos, DL/EBITDA numérico, FCF numérico, segmentos crescimento)
+- ✅ Sem ajuste de `tgt`/`rec` (consenso volátil)
 - ✅ Mudanças estruturais apenas como sugestão neste relatório
-- ✅ Build testado: `python build_dashboard.py` completou OK (5 tickers, 34 gráficos, 71.446 chars)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+- ✅ Build testado: `python build_dashboard.py` completou OK — 5 tickers, 34 gráficos, 71.495 chars, timestamp `17/05/2026 20:20`
+
+### ⚠️ Bloqueio de commit/push — ação manual necessária
+
+O ambiente do agente não conseguiu fazer `git commit` nem `git push` nesta execução devido a **lock files persistentes** em `.git/` (`HEAD.lock` de 06/05, `index.lock` de 29/04, `index.alt.lock` de 29/04 — todos 0 bytes). Estes lock files são vistos pelo mount Linux mas **não existem na visão do Windows** (`Glob` retornou vazio); o mount não permite `rm` no diretório `.git/`. Não é possível resolver pelo lado do agente.
+
+**Estado do repo**: 7 commits acumulados localmente sem push (mais este 8º não-commitado). Branch local `main` está 7 commits à frente de `origin/main`.
+
+**Ação manual necessária pelo Lino no terminal Windows:**
+```powershell
+cd C:\Users\mlino\repos\dashboard-educacao
+# 1. Confirmar que não existem lock files reais no Windows
+Get-ChildItem .git\*.lock -ErrorAction SilentlyContinue
+# 2. Stage os arquivos modificados pelo agente
+git add build_dashboard.py changelogs\improvement-suggestions.md changelogs\2026-05-17.md
+# 3. Commit
+git commit -m "data: weekly news refresh + 1T26 results — Cogna/Yduqs/Anima/Ser/Cruzeiro (mai/26)"
+# 4. Push (vai mandar os 7 commits acumulados + este novo)
+git push
+```
+
+Em alternativa, se houver lock files reais no Windows, deletá-los antes:
+```powershell
+Remove-Item .git\HEAD.lock, .git\index.lock, .git\index.alt.lock -ErrorAction SilentlyContinue
+```
+
+> **Recomendação estrutural #7 (nova)**: Diagnosticar por que o ambiente do agente acumulou 7 commits sem push. Provável causa: stale lock files no mount Linux desde 29/abr. Solução de longo prazo: workflow do GitHub Actions executa em runner limpo (não tem esse problema); o agente local roda no Windows real do Lino e não deveria ter mount issues — recomendo verificar se há processo do VS Code/IDE com `.git/` aberto deixando locks orfãos, ou se há limitação do mount usado pelo Cowork mode.

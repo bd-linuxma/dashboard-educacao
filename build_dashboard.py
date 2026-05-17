@@ -112,7 +112,7 @@ SUPPLEMENTARY = {
         'pdd':12.5,'evs':22,'dl_ebitda':1.22,'fcf':1200,'fcf_ebitda':44,'goodwill_pct':42,
         'ead_exp':45,'pr':350,'pg':15,
         'rec':'Compra','tgt':6.50,
-        'hl':'4T25: RL R$2,2bi (+1,9%). Lucro R$220M (-76% base alta). Vendas NEM postergadas p/ 1T26. Upgrade duplo: BTG (tgt R$5) e Itaú BBA (tgt R$6) p/ Compra.',
+        'hl':'1T26: RL R$2,15bi (+32%). Lucro R$141,4M (+48,7%). EBITDA R$680M (+22%). FCF R$253M (+69%). Ed. básica (Vasta+Saber) +73% com PNLD. DL/EBITDA 1,13x.',
     },
     'YDUQ3': {
         'fn': 'Yduqs', 'brands': 'Estácio, IBMEC, IDOMED, Wyden',
@@ -121,7 +121,7 @@ SUPPLEMENTARY = {
         'pdd':14.0,'evs':24,'dl_ebitda':1.46,'fcf':1050,'fcf_ebitda':61,'goodwill_pct':35,
         'ead_exp':35,'pr':480,'pg':34,
         'rec':'Compra','tgt':19.00,
-        'hl':'4T25: RL R$1,3bi (+3%). Prejuízo R$49,5M. EBITDA aj. R$459M (+16%). Recompra R$100M aprovada. Itaú BBA eleva p/ top pick (tgt R$19, +37,7%).',
+        'hl':'1T26: RL R$1,5bi (+1,5%). Lucro aj. R$150M (-2,1%). EBITDA aj. R$504M (-2%). Guidance FCA 2026: R$520-620M (vs R$500M em 2025). Ação +6% pós-release.',
     },
     'ANIM3': {
         'fn': 'Ânima', 'brands': 'São Judas, Una, UniBH, Inspirali',
@@ -130,7 +130,7 @@ SUPPLEMENTARY = {
         'pdd':10.5,'evs':20,'dl_ebitda':2.49,'fcf':600,'fcf_ebitda':48,'goodwill_pct':55,
         'ead_exp':15,'pr':400,'pg':20,
         'rec':'Compra','tgt':7.00,
-        'hl':'2025: Lucro R$124M (+45%). RL R$4,0bi (+5,8%). Mg EBITDA aj. 30%. Organon Capital atinge 5%. DL/EBITDA 2,49x.',
+        'hl':'1T26: Lucro aj. R$124,8M (+8,2%). RL R$1,12bi (+7,7%). Ticket médio +11%. Core +7,7% em graduação. Goldman: melhor posicionada do setor.',
     },
     'SEER3': {
         'fn': 'Ser Educacional', 'brands': 'Uninassau, Unifael, UNAMA',
@@ -139,7 +139,7 @@ SUPPLEMENTARY = {
         'pdd':11.0,'evs':23,'dl_ebitda':1.35,'fcf':300,'fcf_ebitda':52,'goodwill_pct':28,
         'ead_exp':20,'pr':120,'pg':12,
         'rec':'Compra','tgt':12.80,
-        'hl':'4T25: lucro aj. R$74,6M reverte prejuízo. 2025: lucro R$214,4M. Dividendos R$61,1M (abr/mai 2026). Santander promove a top pick (tgt R$12,80, outperform).',
+        'hl':'1T26: lucro aj. R$81M (+58%). RL R$583,8M (+8,1%). EBITDA aj. R$158,2M (+10,1%). DL/EBITDA cai p/ 0,75x (de 1,35x). Santander mantém top pick.',
     },
     'CSED3': {
         'fn': 'Cruzeiro do Sul', 'brands': 'Cruzeiro do Sul, Universidade Positivo',
@@ -148,7 +148,7 @@ SUPPLEMENTARY = {
         'pdd':9.5,'evs':21,'dl_ebitda':0.57,'fcf':400,'fcf_ebitda':53,'goodwill_pct':38,
         'ead_exp':40,'pr':200,'pg':10,
         'rec':'Compra','tgt':10.00,
-        'hl':'4T25: lucro R$34,5M reverte prejuízo; ações -8% (desp. adm. +39%). 2025: lucro recorde R$297M (2x). BTG target R$10 (Compra).',
+        'hl':'1T26: lucro aj. R$62,7M (-28%). Pressão sobre EBITDA e margens operacionais. Ação caiu 6,7% pós-release. BTG mantém target R$10 (Compra).',
     },
 }
 
@@ -168,6 +168,12 @@ INTL = [
 ]
 
 NEWS = [
+    ['13/05','CSED3','CSED3 1T26: lucro aj. R$62,7M (-28%); ação cai 6,7% pós-release (pressão margens)','↓'],
+    ['12/05','SEER3','SEER3 1T26: lucro aj. R$81M (+58%); DL/EBITDA despenca p/ 0,75x (de 1,35x)','↑'],
+    ['12/05','COGN3','COGN3 1T26: lucro R$141,4M (+48,7%); RL +32%; PNLD impulsiona ed. básica (+73%)','↑'],
+    ['11/05','SETOR','Safra: setor de educação entrega caixa forte e supera expectativas no 1T26','↑'],
+    ['08/05','YDUQ3','YDUQ3 1T26: lucro aj. R$150M (-2,1%); guidance FCA 2026 R$520-620M; ação +6%','↑'],
+    ['07/05','ANIM3','ANIM3 1T26: lucro aj. R$124,8M (+8,2%); ticket +11%; Goldman aponta como destaque','↑'],
     ['05/05','SETOR','JP Morgan alerta YDUQ3 e SEER3 pós-Enamed (107 cursos reprovados); BTG pede calma','↓'],
     ['02/05','YDUQ3','Itaú BBA corta preço-alvo de YDUQ3 — cenário desafiador em 2026','↓'],
     ['28/04','COGN3','Cogna ex-dividendos — R$28,6M (R$0,0143/ação); pagamento em 29/mai','↑'],
@@ -175,12 +181,6 @@ NEWS = [
     ['27/04','SETOR','MEC/Inep publica diretrizes Enade 2026; prova do Enamed em 13/set','→'],
     ['23/04','SEER3','Santander promove SEER3 a top pick do setor (tgt R$12,80, outperform)','↑'],
     ['22/04','SETOR','BofA: Ser e Ânima preferidas no 1T26; YDUQ3, COGN3 e AFYA mais expostas à regulação','→'],
-    ['20/04','SETOR','Vitru (VTRU3) conclui follow-on na B3 — 1ª oferta pós-migração Nasdaq→B3','→'],
-    ['10/04','SETOR','Itaú BBA eleva COGN3 e YDUQ3 p/ Compra; Yduqs vira top pick (target R$19)','↑'],
-    ['07/04','SEER3','SEER3 ex-proventos — dividendos R$61,1M (R$0,239/ação) em abr/mai','↑'],
-    ['01/04','SETOR','MEC publica Portaria SERES 98 — Agenda Regulatória 2026','→'],
-    ['25/03','CSED3','CSED3 4T25: lucro R$34,5M reverte prejuízo; ações caem 8% (desp. adm. +39%)','↓'],
-    ['21/03','SETOR','BTG eleva Cogna p/ compra; setor educação vive era de vaca leiteira','↑'],
 ]
 
 
@@ -445,6 +445,12 @@ def main():
     }
     with open(os.path.join('output', 'data.json'), 'w', encoding='utf-8') as f:
         json.dump(snapshot, f, indent=2, ensure_ascii=False, default=str)
+    print(f'   Snapshot: output/data.json')
+
+
+if __name__ == "__main__":
+    main()
+r)
     print(f'   Snapshot: output/data.json')
 
 
